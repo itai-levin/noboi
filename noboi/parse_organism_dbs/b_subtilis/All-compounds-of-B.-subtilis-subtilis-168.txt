@@ -1,0 +1,1147 @@
+Compound	SMILES
+x-HEP-1:5	
+preQ<sub>1</sub>	C([NH3+])C1(\C2(\C(=O)NC(/N)=N/C(\N/C=1)=2))
+x-HEP-x:x	
+<i>di-trans,octa-cis</i>-undecaprenyl diphosphate	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP(=O)([O-])[O-]
+b-dgro-dgal-NON-2:6|1:a|2:keto|3:d	
+a-HEP-1:5	
+(1&rarr;4)-&beta;-D-galactotetraose	C(O)[C@H]4(O[C@@H](O[C@@H]3([C@H](O)[C@@H](O)[C@H](O[C@@H]2([C@H](O)[C@@H](O)[C@H](O[C@@H]1([C@H](O)[C@@H](O)C(O)O[C@H](CO)1))O[C@H](CO)2))O[C@H](CO)3))[C@H](O)[C@@H](O)[C@@H](O)4)
+<i>N</i>-acetyl-<i>S</i>-benzyl-L-cysteine	CC(=O)N[C@@H](CSCC1(\C=C/C=C\C=1))C([O-])=O
+x-dgro-dgal-NON-2:6|1:a|2:keto|3:d	
+mono-<i>trans</i>,octa-<i>cis</i>-decaprenyl diphosphate	CC(C)=CCCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP([O-])(=O)OP([O-])(=O)[O-]
+stachyose	C(O)[C@H]4(O[C@](O[C@H]3(O[C@H](CO[C@@H]2([C@@H]([C@H]([C@H]([C@@H](CO[C@@H]1([C@@H]([C@H]([C@H]([C@@H](CO)O1)O)O)O))O2)O)O)O))[C@@H](O)[C@H](O)[C@@H](O)3))(CO)[C@H]([C@@H]4O)O)
+a-dgro-dgal-NON-2:6|1:a|2:keto|3:d	
+&beta;-D-fructofuranose 6-phosphate	C(OP(=O)([O-])[O-])[C@H]1(O[C@@](CO)(O)[C@@H](O)[C@H](O)1)
+Fe<SUP>3+</SUP>	[Fe+3]
+&alpha;-D-xylulofuranose	C(O)[C@@]1(O)([C@H]([C@@H](CO1)O)O)
+<i>keto</i>-L-sorbose	C(O)C(=O)[C@@H](O)[C@H](O)[C@@H](O)CO
+(2<i>R</i>)-3-sulfolactate	C(=O)([O-])[C@@H](O)CS([O-])(=O)=O
+Co<SUP>2+</SUP>	[Co+2]
+1-kestotriose	C(O)[C@H]3(O[C@H](O[C@]2(CO[C@]1(CO)(O[C@H](CO)[C@@H](O)[C@H](O)1))(O[C@H](CO)[C@@H](O)[C@H](O)2))[C@H](O)[C@@H](O)[C@H](O)3)
+sulfamate	NS([O-])(=O)=O
+Mn<SUP>2+</SUP>	[Mn+2]
+thiamine	CC2(\[N+](/CC1(\C(\N)=N/C(\C)=N\C=1))=C/SC(/CCO)=2)
+1,1-kestotetraose	C(O)[C@H]4(O[C@H](O[C@]3(CO[C@]2(CO[C@]1(CO)(O[C@H](CO)[C@@H](O)[C@H](O)1))(O[C@H](CO)[C@@H](O)[C@H](O)2))(O[C@H](CO)[C@@H](O)[C@H](O)3))[C@H](O)[C@@H](O)[C@H](O)4)
+5-(2-hydroxyethyl)-4-methylthiazole	CC1(\N=C/SC(/CCO)=1)
+Cu<SUP>2+</SUP>	[Cu+2]
+2-[(2<i>R</i>,5<i>Z</i>)-2-carboxy-4-methylthiazol-5(2<i>H</i>)-ylidene]ethyl phosphate	CC1(\C(\S[C@H](C(=O)[O-])\N=1)=C\COP([O-])(=O)[O-])
+(2E,7Z)-hexadecenoyl-CoA	CCCCCCCC\C=C/CCC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+4-methyl-5-(2-phosphooxyethyl)thiazole	CC1(\N=C/SC(/CCOP([O-])(=O)[O-])=1)
+Fe<sup>2+</sup>	[Fe+2]
+2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate	CC1(\N=C(C(=O)[O-])/SC(/CCOP([O-])(=O)[O-])=1)
+(2E,9Z)-octadecenoyl-CoA	CCCCCCCC\C=C/CCCCC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+bisoleoyl phosphatidate	CCCCCCCC\C=C/CCCCCCCC(OC[C@@H](OC(=O)CCCCCCC\C=C/CCCCCCCC)COP([O-])(=O)[O-])=O
+3-oxo-(7Z)-hexadecenoyl-CoA	CCCCCCCC\C=C/CCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+L-methionine-(<i>S</i>)-<i>S</i>-oxide	CS(=O)CC[C@H]([NH3+])C(=O)[O-]
+raffinose	C(O)[C@H]3(O[C@](O[C@H]2(O[C@H](CO[C@@H]1([C@@H]([C@H]([C@H]([C@@H](CO)O1)O)O)O))[C@@H](O)[C@H](O)[C@@H](O)2))(CO)[C@H]([C@@H]3O)O)
+L-methionine-(<i>R</i>)-<i>S</i>-oxide	CS(=O)CC[C@H]([NH3+])C(=O)[O-]
+3-oxo-(9Z)-octadecenoyl-CoA	CCCCCCCC\C=C/CCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+5-hydroxymethylfurfural	C(=O)C1(\OC(/CO)=C/C=1)
+3-oxo-(5Z)-tetradecenoyl-CoA	CCCCCCCC\C=C/CC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+(2<i>R</i>)-phospho-3-sulfolactate	C([O-])(=O)[C@H](CS(=O)(=O)[O-])OP(=O)([O-])[O-]
+(R)-methylmalonyl-CoA	C[C@@H](C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])C([O-])=O
+isethionate	C(CO)S(=O)(=O)[O-]
+methanesulfonate	CS(=O)(=O)[O-]
+(S)-methylmalonyl-CoA	C[C@H](C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])C([O-])=O
+ethanesulfonate	CCS(=O)(=O)[O-]
+1-hexanesulfonate	CCCCCCS(=O)(=O)[O-]
+&alpha;-D-lyxopyranose	C1(O[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)1)
+1-butanesulfonate	CCCCS(=O)(=O)[O-]
+[polyketide synthase acyl-carrier protein]-group	CC(C)(COP(=O)([O-])OC[C@H](N[a holo acp domain within a [polyketide synthase]])C(=O)[a holo acp domain within a [polyketide synthase]])[C@@H](O)C(=O)NCCC(=O)NCCS
+<i>S</i>-ethyl-L-cysteine	CCSC[C@H]([NH3+])C(=O)[O-]
+[acyl-carrier protein]-group	CC(C)(COP(=O)([O-])OC[C@H](N[a soluble apo-[acyl-carrier protein]])C(=O)[a soluble apo-[acyl-carrier protein]])[C@@H](O)C(=O)NCCC(=O)NCCS
+geranylgeranyl diphosphate	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/COP(=O)([O-])OP(=O)([O-])[O-]
+[peptidyl-carrier protein] group	CC(C)(COP(=O)([O-])OC[C@H](N[a peptidyl-carrier protein])C(=O)[a peptidyl-carrier protein])[C@@H](O)C(=O)NCCC(=O)NCCS
+all-<i>trans</i>-heptaprenyl diphosphate	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/COP(=O)([O-])OP(=O)([O-])[O-]
+[aryl-carrier protein] group	CC(C)(COP(=O)([O-])OC[C@H](N[an aryl-carrier protein])C(=O)[an aryl-carrier protein])[C@@H](O)C(=O)NCCC(=O)NCCS
+3-(<i>O</i>-geranylgeranyl)-<i>sn</i>-glycerol 1-phosphate	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/COC[C@@H](COP([O-])([O-])=O)O
+an acp domain within a type I fatty acid synthase	CC(C)(COP(=O)([O-])OC[C@H](N[a type I fatty acid synthase])C(=O)[a type I fatty acid synthase])[C@@H](O)C(=O)NCCC(=O)NCCS
+&alpha;-maltose 6'-phosphate	C(OP([O-])(=O)[O-])[C@H]2(O[C@H](O[C@H]1([C@H](O)[C@@H](O)[C@@H](O)O[C@H](CO)1))[C@H](O)[C@@H](O)[C@H](O)2)
+[non-ribosomal peptide synthase] group	CC(C)(COP(=O)([O-])OC[C@H](N[a non-ribosomal peptide synthase])C(=O)[a non-ribosomal peptide synthase])[C@@H](O)C(=O)NCCC(=O)NCCS
+sucrose 6<sup>G</sup>-phosphate	C(O)[C@H]2(O[C@](O[C@H]1(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@H](O)[C@@H](O)1))(CO)[C@H]([C@@H]2O)O)
+dodecyl sulfate	CCCCCCCCCCCCOS([O-])(=O)=O
+tetrahydropteroyl tri-L-glutamate	C([C@@H]1(NC2(\C(NC(/N)=N/C(\NC1)=2)=O)))NC3(\C=C/C(/C(N[C@H](C(=O)[O-])CCC(N[C@H](C(=O)[O-])CCC(N[C@H](C(=O)[O-])CCC([O-])=O)=O)=O)=O)=C\C=3)
+quercetin	C3(/C=C(C(/O)=C\C(\C1(\OC2(/C=C(/C=C(C(\C(=O)C(/O)=1)=2)/O)/[O-])))=3)/O)
+(<i>R</i>)-<i>N</i>-acetyl-<i>S</i>-benzyl-L-cysteine sulfoxide	CC(=O)N[C@@H](C[S+]([O-])CC1(\C=C/C=C\C=1))C([O-])=O
+Hg<SUP>2+</SUP>	[Hg+2]
+(<i>R</i>)-<i>N</i>-acetyl-<i>S</i>-methyl-L-cysteine sulfoxide	CC(=O)N[C@@H](C[S+]([O-])C)C([O-])=O
+Zn<SUP>2+</SUP>	[Zn+2]
+Cd<SUP>2+</SUP>	[Cd+2]
+Sn<SUP>2+</SUP>	[Sn+2]
+2-methylacetoacetyl-CoA	CC(C(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O)C(=O)C
+geranyl diphosphate	CC(C)=CCCC(\C)=C/COP([O-])(OP(=O)([O-])[O-])=O
+propanoyl-CoA	CCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+&beta;-L-arabinopyranose	C1([C@@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)
+prenyl diphosphate	CC(C)=CCOP(=O)([O-])OP(=O)([O-])[O-]
+(S)-3-amino-2-methylpropanoate	C[C@@H](C[NH3+])C([O-])=O
+butanoyl-CoA	CCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(OP([O-])(OC[C@@H]1([C@@H](OP([O-])([O-])=O)[C@@H](O)[C@@H](O1)N2(C3(\C(\N=C/2)=C(N)/N=C\N=3))))=O)([O-])=O
+<i>aldehydo</i>-L-arabinose	C(=O)[C@H](O)[C@@H](O)[C@@H](O)CO
+(R)-acetoin	C[C@@H](O)C(=O)C
+crotonyl-CoA	C/C=C/C(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(OP([O-])(OC[C@@H]1([C@@H](OP([O-])([O-])=O)[C@@H](O)[C@@H](O1)N2(C3(\C(\N=C/2)=C(N)/N=C\N=3))))=O)([O-])=O)=O
+3-(methylsulfanyl)propanoate	CSCCC([O-])=O
+sulfoacetate	C([O-])(=O)CS(=O)(=O)[O-]
+<i>N</i><sup>1</sup>-acetylspermine	CC(=O)NCCC[NH2+]CCCC[NH2+]CCC[NH3+]
+acetoacetyl-CoA	CC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+<i>N</i><SUP>1</SUP>-acetylspermidine	CC(=O)NCCC[NH2+]CCCC[NH3+]
+D-tyrosine	C([C@@H](CC1(\C=C/C(/O)=C\C=1))[NH3+])(=O)[O-]
+(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA	C[C@H](C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])[C@H](C)O
+bis(<i>p</i>-nitrophenyl) phosphate	C1(\C(\[N+](=O)[O-])=C/C=C(\C=1)/OP(OC2(\C=C/C(/[N+](=O)[O-])=C\C=2))(=O)[O-])
+4-nitrophenyl phosphate	C1(/C=C(\C=C/C(/[N+](=O)[O-])=1)/OP([O-])(=O)[O-])
+(<i>R</i>)-S-adenosyl-L-methionine	C[S+](C[C@@H]3([C@@H](O)[C@@H](O)[C@H](N1(C2(\N=C/N=C(C(\N=C/1)=2)/N)))O3))CC[C@@H](C([O-])=O)[NH3+]
+hexanoyl-CoA	CCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+p-nitrophenyl acetate	CC(=O)OC1(\C=C/C(/[N+]([O-])=O)=C\C=1)
+1-chloro-2,4-dinitrobenzene	C1(/C=C(C(/[N+]([O-])=O)=C\C(\[N+]([O-])=O)=1)/Cl)
+<i>S</i>-adenosyl-L-methionine	C[S+](C[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))CC[C@@H](C(=O)[O-])[NH3+]
+lauroyl-CoA	CCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+a [prolipoprotein]-<i>S</i>-1,2-diacyl-<i>sn</i>-glyceryl-L-cysteine	C(=O)([a prolipoprotein])[C@@H](N[a lipoprotein signal peptide])CSC[C@H](OC([R2])=O)COC([R1])=O
+<i>O</i>-acetyl-L-homoserine	CC(OCC[C@@H](C([O-])=O)[NH3+])=O
+decanoyl-CoA	CCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+octanoyl-CoA	CCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+b-PEN-1:5	
+x-PEN-1:4	
+EDTA	C(C[NH+](CC([O-])=O)CC([O-])=O)[NH+](CC([O-])=O)CC([O-])=O
+&beta;-D-mannopyranose	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@H](O)[C@H](O)O1)
+a 2-acyl-sn-glycero-3-phosphoglycerol (n-C14:1)	CC/C=C/CCCCCCCCCC(O[C@@H](COP(OC[C@@H](O)CO)([O-])=O)CO)=O
+&alpha;-D-mannopyranose	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@H](O)[C@@H](O)O1)
+a 2-acyl-sn-glycero-3-phosphoglycerol (n-C18:1)	CCCCCC/C=C/CCCCCCCCCC(O[C@@H](COP(OC[C@@H](O)CO)([O-])=O)CO)=O
+methylglyoxal	CC(C=O)=O
+carbonylcyanide <i>m</i>-chlorophenylhydrazone	C(C(C#N)=NNC1(\C=C(\C=C/C=1)\Cl))#N
+D-xylulose 5-phosphate	C(OP([O-])(=O)[O-])[C@@H](O)[C@H](O)C(=O)CO
+1-deoxy-D-xylulose 5-phosphate	CC(=O)[C@@H](O)[C@H](O)COP([O-])(=O)[O-]
+(<i>S</i>)-lactaldehyde	C[C@@H](C=O)O
+diacetyl	CC(C(C)=O)=O
+neokestose	C(O)[C@H]3(O[C@@](CO)(OC[C@H]2(O[C@H](O[C@]1(CO)(O[C@H](CO)[C@@H](O)[C@H](O)1))[C@H](O)[C@@H](O)[C@H](O)2))[C@H]([C@@H]3O)O)
+<i>N</i>-carbamoyl-L-aspartate	C(=O)([O-])C[C@H](NC(N)=O)C([O-])=O
+<i>O</i>-acetyl-L-serine	CC(OC[C@H]([NH3+])C(=O)[O-])=O
+&alpha;-D-glucose 6-phosphate	C([C@H]1(OC([C@@H]([C@H]([C@@H]1O)O)O)O))OP([O-])([O-])=O
+3-<i>O</i>-D-mannopyranose	CO[C@@H]1([C@H](O)C(O)O[C@H](CO)[C@@H](O)1)
+&beta;-D-glucose 6-phosphate	C([C@H]1(OC([C@@H]([C@H]([C@@H]1O)O)O)O))OP([O-])([O-])=O
+<i>O</i>-phospho-L-serine	C(OP([O-])([O-])=O)[C@H]([NH3+])C(=O)[O-]
+2-iminobutanoate	CCC(C(=O)[O-])=N
+2-iminosuccinate	C(=O)([O-])CC(C(=O)[O-])=N
+a 2-acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)	CCCC/C=C/CCCCCCCCCC(=O)O[C@H](CO)COP(OCC[NH3+])([O-])=O
+a 2-acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)	CCCCCC/C=C/CCCCCC(=O)O[C@H](CO)COP(OCC[NH3+])([O-])=O
+a 2-acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)	CCCCCC/C=C/CCCCCCCCCC(=O)O[C@H](CO)COP(OCC[NH3+])([O-])=O
+mono-<i>trans</i>, poly-<i>cis</i>-decaprenyl group	C\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC/C=C(C)/CCC=C(C)C
+preQ<sub>0</sub>	C12(=C(C(NC(/N)=N/1)=O)C(/C#N)=C\N2)
+&alpha;-D-glucopyranose 1-phosphate	C(O)[C@H]1(O[C@H](OP(=O)([O-])[O-])[C@H](O)[C@@H](O)[C@H](O)1)
+&beta;-D-xylopyranose	C1(O[C@@H](O)[C@H](O)[C@@H](O)[C@H](O)1)
+acetamide	CC(=O)N
+choline sulfate	C[N+](CCOS(=O)(=O)[O-])(C)C
+<i>di-trans,octa-cis</i>-undecaprenyl group	C\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC/C=C(C)/CC/C=C(C)/CCC=C(C)C
+&alpha;-D-xylopyranose	C1(O[C@H](O)[C@H](O)[C@@H](O)[C@H](O)1)
+urea	C(=O)(N)N
+betaine aldehyde hydrate	C[N+](C)(CC(O)O)C
+all-<i>trans</i>-undecaprenyl group	C/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CCC=C(C)C
+L-proline betaine	C1(CC[C@H]([N+](C)(C)1)C([O-])=O)
+dolichol-group	CC[C@@H](C)CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC/C=C(C)/CC/C=C(C)/CCC=C(C)C
+betaine aldehyde	C[N+](C)(CC=O)C
+palmitoyl-CoA	CCCCCCCCCCCCCCCC(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O
+choline	C(CO)[N+](C)(C)C
+linoleoyl-CoA	CCCCC\C=C/C\C=C/CCCCCCCC(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O
+stearoyl-CoA	CCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC([C@H](O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OC[C@@H]1([C@@H](OP(=O)([O-])[O-])[C@@H](O)[C@@H](O1)N2(\C=N/C3(C(/N)=N\C=N/C2=3))))=O
+pentadecanoyl-CoA	CCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+<i>N</i>-(1-deoxy-D-fructos-1-yl)glycine	C([NH2+]CC(=O)[O-])C(=O)[C@@H](O)[C@H](O)[C@H](O)CO
+NADPH	C1(/N(\C=C/CC(/C(N)=O)=1)[C@@H]5(O[C@H](COP(=O)([O-])OP(=O)([O-])OC[C@H]2(O[C@H]([C@H](O[R])[C@H](O)2)N3(\C=N/C4(C(/N)=N\C=N/C3=4))))[C@@H](O)[C@@H](O)5))
+oleoyl-CoA	CCCCCCCC\C=C/CCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+<i>N</i><sup>6</sup>-(1-deoxy-D-fructos-1-yl)-L-lysine	C(C(=O)[C@@H](O)[C@H](O)[C@@H](CO)O)[NH2+]CCCC[C@H]([NH3+])C(=O)[O-]
+NADH	C1(/N(\C=C/CC(/C(N)=O)=1)[C@@H]5(O[C@H](COP(=O)([O-])OP(=O)([O-])OC[C@H]2(O[C@H]([C@H](O[R])[C@H](O)2)N3(\C=N/C4(C(/N)=N\C=N/C3=4))))[C@@H](O)[C@@H](O)5))
+1-propanal	CCC=O
+(5Z)-tetradecenoyl-CoA	CCCCCCCC\C=C/CCCC(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O
+acetaldehyde	CC=O
+(7Z)-hexadecenoyl-CoA	CCCCCCCC\C=C/CCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+formaldehyde	C=O
+Ca<SUP>2+</SUP>	[Ca+2]
+1-butanal	CCCC=O
+Mg<SUP>2+</SUP>	[Mg+2]
+hexadecanal	CCCCCCCCCCCCCCCC=O
+1-octanal	CCCCCCCC=O
+&beta;-alanine	C(C[NH3+])C([O-])=O
+6-deoxy-D-allose	C[C@@H]1([C@@H](O)[C@@H](O)[C@@H](O)C(O)O1)
+<i>N</i>-acetyl-L-glutamate	CC(=O)N[C@H](C([O-])=O)CCC(=O)[O-]
+(2<i>E</i>,6<i>E</i>)-farnesyl diphosphate	CC(C)=CCCC(\C)=C/CCC(\C)=C/COP(OP([O-])(=O)[O-])(=O)[O-]
+(<i>2E,6E</i>)-farnesol	CC(C)=CCCC(\C)=C/CCC(\C)=C/CO
+<i>N</i>-acetyl-L-cysteine	CC(N[C@H](C(=O)[O-])CS)=O
+<i>N</i>-acetyl-L-ornithine	CC(=O)N[C@@H](CCC[NH3+])C(=O)[O-]
+nicotinamide	C1(\C=C/C(/C(=O)N)=C\N=1)
+coenzyme A	CC(C)(COP([O-])(=O)OP(OC[C@H]3(O[C@@H](N1(C2(\N=C/N=C(C(\N=C/1)=2)/N)))[C@H](O)[C@H](OP([O-])(=O)[O-])3))(=O)[O-])[C@@H](O)C(=O)NCCC(=O)NCCS
+5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(C(/NC=O)=C(C(=O)N)/N=C\1))[C@H](O)[C@H](O)2)
+D-mannitol 1-phosphate	C([C@H]([C@H]([C@@H]([C@@H](COP([O-])([O-])=O)O)O)O)O)O
+(<i>R</i>)-lipoate	C(CCC(=O)[O-])C[C@@H]1(CCSS1)
+carbamoyl phosphate	C(=O)(N)OP(=O)([O-])[O-]
+1-(5-phospho-&beta;-D-ribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide	C(OP([O-])(=O)[O-])[C@H]3(O[C@@H](/N=C/NC1(\N(\C=N/C(\C(=O)N)=1)[C@@H]2(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@@H](O)2)))[C@H](O)[C@@H]3O)
+D-sorbitol 6-phosphate	C([C@@H]([C@H]([C@@H]([C@@H](COP([O-])(=O)[O-])O)O)O)O)O
+molybdopterin	C(OP([O-])(=O)[O-])[C@@H]1(C(\[S-])=C([C@H]2([C@@H](O1)NC3(/N=C(N)\NC(=O)C(/N2)=3)))\S)
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(C(/N)=C(C(=O)N)/N=C\1))[C@H](O)[C@H](O)2)
+(<i>S</i>)-3-hydroxydecanoyl-CoA	CCCCCCC[C@@H](CC(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O)O
+pyridoxal 5'-phosphate	CC1(/N=C\C(\COP(=O)([O-])[O-])=C(C(/O)=1)\C=O)
+phosphoribulosylformimino-AICAR-phosphate	C(OP(=O)([O-])[O-])[C@@H](O)[C@@H](O)C(=O)C/N=C/NC1(\N(\C=N/C(\C(=O)N)=1)[C@@H]2(O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@@H](O)2))
+(<i>S</i>)-3-hydroxyhexanoyl-CoA	CCC[C@@H](CC(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O)O
+(3<i>S</i>)-3-hydroxyoctanoyl-CoA	CCCCC[C@@H](CC(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O)O
+allantoate	C(C(=O)[O-])(NC(=O)N)NC(=O)N
+(S)-3-hydroxydodecanoyl-CoA	CCCCCCCCC[C@H](O)CC(=O)SCCNC(=O)CCNC([C@H](O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OC[C@@H]1([C@@H](OP(=O)([O-])[O-])[C@@H](O)[C@@H](O1)N2(\C=N/C3(C(/N)=N\C=N/C2=3))))=O
+(2Z)-2-aminobut-2-enoate	C\C=C(C(=O)[O-])/N
+&beta;-D-GlcA-(1&rarr;3)-&alpha;-D-GalNAc-(1&rarr;6)-&alpha;-D-GalNAc-PP-Und	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP(O[C@@H]1([C@@H]([C@H]([C@H]([C@H](O1)CO[C@@H]3(O[C@H](CO)[C@H](O)[C@H](O[C@@H]2(O[C@H](C(=O)[O-])[C@@H](O)[C@H](O)[C@@H](O)2))[C@@H](NC(=O)C)3))O)O)NC(C)=O))([O-])=O
+&beta;-D-ManNAc-(1&rarr;4)-&alpha;-D-GlcNAc-PP-Und	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP([O-])(=O)O[C@@H]1([C@@H]([C@H]([C@@H]([C@H](O1)CO)O[C@@H]2(O[C@H](CO)[C@@H](O)[C@H](O)[C@H](NC(=O)C)2))O)NC(C)=O)
+2-iminopropanoate	CC(C(=O)[O-])=[NH2+]
+<i>aldehydo</i>-D-glucuronate	C(=O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)C(=O)[O-]
+2-aminoprop-2-enoate	C=C([NH3+])C(=O)[O-]
+&beta;-D-GlcA-(1&rarr;4)-&beta;-D-GlcA-(1&rarr;3)-&alpha;-D-GalNAc-(1&rarr;6)-&alpha;-D-GalNAc-PP-Und	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP(O[C@@H]1([C@@H]([C@H]([C@H]([C@H](O1)CO[C@@H]4(O[C@H](CO)[C@H](O)[C@H](O[C@@H]3(O[C@H](C(=O)[O-])[C@@H](O[C@@H]2(O[C@H](C(=O)[O-])[C@@H](O)[C@H](O)[C@@H](O)2))[C@H](O)[C@@H](O)3))[C@@H](NC(=O)C)4))O)O)NC(C)=O))([O-])=O
+&alpha;-D-GalNAc-PP-Und	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP([O-])(=O)O[C@@H]1([C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)NC(C)=O)
+&alpha;-D-GalNAc-(1&rarr;6)-&alpha;-D-GalNAc-diphospho-ditrans,octacis-undecaprenol	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP(O[C@@H]1([C@@H]([C@H]([C@H]([C@H](O1)CO[C@@H]2(O[C@H](CO)[C@H](O)[C@H](O)[C@@H](NC(=O)C)2))O)O)NC(C)=O))([O-])=O
+methylacrylyl-CoA	C=C(C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])C
+&alpha;-D-GlcNAc-PP-Und	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP([O-])(=O)O[C@@H]1([C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)NC(C)=O)
+isobutanoyl-CoA	CC(C)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(OP([O-])(OC[C@@H]1([C@@H](OP([O-])([O-])=O)[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))=O)([O-])=O
+two adjacent thymidines in DNA	CC1(\C(=O)NC(N(\C=1)[C@@H]4(O[C@H](COP(O[C@H]3(C[C@H](N2(C(=O)NC(=O)C(/C)=C/2))O[C@H](COP(=O)([O-])O[a deoxyribonucleic acid])3))([O-])=O)[C@@H](OP([O-])(O[a deoxyribonucleic acid])=O)C4))=O)
+acetyl-CoA	CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(OP([O-])(OC[C@@H]1([C@@H](OP([O-])([O-])=O)[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))=O)([O-])=O
+(5R)-5,6-dihydro-5-(thymidin-7-yl)thymidine (in DNA)	C[C@]15(C(=O)NC(=O)N([C@@H]4(O[C@H](COP(O[C@H]3(C[C@H](N2(\C=C(C1)/C(=O)NC2=O))O[C@H](COP(=O)([O-])O[a deoxyribonucleic acid])3))([O-])=O)[C@@H](OP([O-])(O[a deoxyribonucleic acid])=O)C4))C5)
+(2<i>S</i>)-2-methylbutanoyl-CoA	CC[C@H](C)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+succinyl-CoA	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CCC(=O)[O-])COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+cyanate	C([O-])#N
+3-methylbutanoyl-CoA	CC(CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])C
+1,4,5,6-tetrahydropyridine-2-carboxylate	C1([NH2+]C(/C(=O)[O-])=C/CC1)
+(<i>E</i>)-2-methylcrotonoyl-CoA	C/C=C(C)/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+chloride	[Cl-]
+pulcherriminic acid	CC(C)CC1(/C(/[O-])=[N+](C(\CC(C)C)=C([N+](/[O-])=1)/[O-])/[O-])
+(<i>S</i>)-3-hydroxy-3-methylglutaryl-CoA	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C[C@@](C)(O)CC(=O)[O-])COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+3-amino-3-deoxy-D-fructose 6-phosphate	C(OP([O-])(=O)[O-])[C@@H]1([C@@H](O)[C@H]([NH3+])[C@@](O)(CO)O1)
+3-methylglutaconyl-CoA	CC(/CC(=O)[O-])=C\C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine	CC1(\N=C/C(/COP(=O)([O-])[O-])=C(N)\N=1)
+b-dman-OCT-2:6|1:a|2:keto|3:d	
+malonyl-CoA	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CC(=O)[O-])COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+<i>S</i>-adenosyl 3-(methylsulfanyl)propylamine	C[S+](CCC[NH3+])C[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+a-dman-OCT-2:6|1:a|2:keto|3:d	
+3'-dephospho-CoA	CC(C)(COP([O-])(=O)OP(OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))(=O)[O-])[C@@H](O)C(=O)NCCC(=O)NCCS
+4-oxoglutaramate	C(CC(=O)[O-])C(C(N)=O)=O
+3-methylcrotonyl-CoA	CC(C)=CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+<i>N</i>-acetylglutamyl-phosphate	CC(=O)N[C@H](C([O-])=O)CCC(=O)OP([O-])(=O)[O-]
+2-dehydropantoate	CC(C(=O)C([O-])=O)(CO)C
+<i>di-trans,octa-cis</i>-undecaprenyl phosphate	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])[O-]
+<i>N</i>-formimino-L-glutamate	C(N[C@H](C([O-])=O)CCC([O-])=O)=[NH2+]
+H<SUB>2</SUB>	[H]
+(2<i>S</i>,3<i>S</i>)-2,3-dihydroxy-2,3-dihydrobenzoate	C([O-])(=O)C1(\[C@@H]([C@H](\C=C/C=1)O)O)
+D-glyceraldehyde	C(=O)[C@H](O)CO
+dihydro-4-hydroxyphenyl pyruvate isomer	C([O-])(=O)C(=O)/C=C1(CCC(O)\C=C/1)
+fructosevaline	C(NC(C(O)=O)C(C)C)C(=O)[C@@H](O)[C@H](O)[C@H](O)CO
+formyl-L-isoglutamine	C(=O)N[C@H](C(N)=O)CCC([O-])=O
+2-succinyl-5-enolpyruvoyl-6-hydroxy-3-cyclohexene-1-carboxylate	C=C(C(=O)[O-])O[C@H]1(C/C=C([C@H]([C@H](O)1)C(=O)[O-])/C(=O)CCC(=O)[O-])
+L-2-acetamido-6-oxoheptanedioate	CC(=O)N[C@@H](CCCC(=O)C(=O)[O-])C(=O)[O-]
+Cu<SUP>+</SUP>	[Cu+]
+CDP-glycerol	C(O)[C@@H](O)COP(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O))(=O)[O-])([O-])=O
+(<i>R</i>)-NADPHX	C5(/N([C@@H]1(O[C@@H]([C@H]([C@H]1O)O)COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](OP([O-])(=O)[O-])[C@H](O)4))(=O)[O-])(=O)[O-]))[C@H](O)CCC(/C(=O)N)=5)
+ammonium	[NH4+]
+tetraphenylphosphonium	C4(\C=C/C(/[P+](C1(\C=C/C=C\C=1))(C2(\C=C/C=C\C=2))C3(\C=C/C=C\C=3))=C\C=4)
+(<i>S</i>)-NADPHX	C5(/N([C@@H]1(O[C@@H]([C@H]([C@H]1O)O)COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](OP([O-])(=O)[O-])[C@H](O)4))(=O)[O-])(=O)[O-]))[C@@H](O)CCC(/C(=O)N)=5)
+H<SUP>+</SUP>	[H+]
+benzil	C2(\C=C/C(/C(=O)C(C1(\C=C/C=C\C=1))=O)=C\C=2)
+1,2-dihydro-&beta;-NADP	C1(\N(CC(/C(=O)N)=C\C=1)[C@@H]2(O[C@@H]([C@H]([C@H]2O)O)COP(OP(OC[C@H]5(O[C@@H](N3(C4(\C(\N=C/3)=C(N)/N=C\N=4)))C(OP([O-])(=O)[O-])[C@H](O)5))(=O)[O-])(=O)[O-]))
+(<i>S</i>)-3-hydroxy-isobutanoyl-CoA	C[C@H](C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])CO
+coproporphyrin I	CC1(\C3(\NC(/C(\CCC([O-])=O)=1)=C/C2(/C(\C)=C(CCC([O-])=O)\C(\N=2)=C\C5(\NC(/C=C4(C(/C)=C(CCC([O-])=O)/C(\C=3)=N\4))=C(CCC([O-])=O)/C(\C)=5))))
+5'-<i>O</i>-phosphonoadenylyl-(3'&rarr;5')-adenosine	C([C@@H]3([C@@H](O)[C@@H](O)[C@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))O3))OP([O-])(=O)O[C@H]6([C@@H](O)[C@H](N4(C5(\C(\N=C/4)=C(N)/N=C\N=5)))O[C@H](COP([O-])([O-])=O)6)
+(8<i>S</i>)-8-amino-7-oxononanoate	C[C@@H](C(CCCCCC([O-])=O)=O)[NH3+]
+nicotinate adenine dinucleotide	C5(/C(/C([O-])=O)=C\C=C/[N+](/[C@@H]4(O[C@H](COP(OP(OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))(=O)[O-])(=O)[O-])[C@@H](O)[C@@H](O)4))=5)
+ADP group	C(OP(OP([O-])(=O)O)(=O)[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+quinolinate	C1(\N=C(C(/C([O-])=O)=C\C=1)\C([O-])=O)
+urate	C12(NC(=O)NC(C(=O)NC(=O)N1)=2)
+dTDP group	CC1(\C(=O)NC(=O)N(\C=1)[C@H]2(C[C@H](O)[C@@H](COP(=O)([O-])OP(=O)([O-])O)O2))
+4-aminobutanoate	C(C[NH3+])CC([O-])=O
+AMP group	C(OP(=O)([O-])O)[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+methylamine	C[NH3+]
+GDP group	C(OP(=O)([O-])OP(=O)([O-])O)[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+2-(&alpha;-hydroxyethyl)thiamine diphosphate	CC2(\[N+](/CC1(\C=N/C(\C)=N\C(/N)=1))=C(C(O)C)/SC(/CCOP([O-])(=O)OP([O-])(=O)[O-])=2)
+CDP group	C(OP(OP(O)([O-])=O)(=O)[O-])[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O)
+histidinol	C1(\N\C=N/C(\C[C@@H](CO)[NH3+])=1)
+UDP group	C(OP(=O)([O-])OP(=O)([O-])O)[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O)
+(<i>S</i>)-dihydroorotate	C1(C(=O)NC(=O)N[C@H](C(=O)[O-])1)
+CMP group	C(OP(=O)([O-])O)[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O)
+<i>N</i>-acetyl-<i>S</i>-(2-succinyl)-L-cysteine	CC(=O)N[C@@H](CSC(CC(=O)[O-])C(=O)[O-])C(=O)[O-]
+GLYCO-CT-PHOSPHATE	
+1,6-anhydro-<i>N</i>-acetyl-&beta;-muramate	C[C@H](C([O-])=O)O[C@H]2([C@H](O)[C@H]1(CO[C@H](O1)[C@H](NC(C)=O)2))
+GLYCO-CT-METHYL	
+2-isopropylmaleate	CC(C(\C(=O)[O-])=C\C(=O)[O-])C
+GLYCO-CT-PYR	
+pimeloyl-CoA	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(CCCCCC([O-])=O)=O)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+GLYCO-CT-N-ACETYL	
+(3E)-2-chloro-5-oxohex-3-enedioate	C(C(/C=C/C(=O)C(=O)[O-])Cl)(=O)[O-]
+GLYCO-CT-ACETYL	
+(2<i>Z</i>,4<i>E</i>)-2-hydroxyhexa-2,4-dienedioate	C([O-])(=O)/C=C/C=C(C(=O)[O-])\O
+GLYCO-CT-SULFATE	
+citrate	C(=O)([O-])CC(C(=O)[O-])(O)CC(=O)[O-]
+GLYCO-CT-N-SULFATE	
+H<sub>2</sub>O	O
+GLYCO-CT-AMINO	
+<i>N</i><sup>1</sup>-(5-phospho-&beta;-D-ribosyl)glycinamide	C([NH3+])C(=O)N[C@H]1([C@H](O)[C@H](O)[C@@H](COP([O-])(=O)[O-])O1)
+porphobilinogen	C(C1(\N\C=C(CCC(=O)[O-])/C(\CC(=O)[O-])=1))[NH3+]
+(4,5-dihydro-5-oxofuran-2-yl)-acetate	C(=O)(CC1(\OC(=O)C\C=1))[O-]
+di-<i>trans</i>,octa-<i>cis</i>-undecaprenol	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CO
+&gamma;-L-glutamyl 5-phosphate	C(CC[C@@H](C(=O)[O-])[NH3+])(OP([O-])(=O)[O-])=O
+(S)-4-amino-5-oxopentanoate	C([C@H](CCC([O-])=O)[NH3+])=O
+trimethyl sulfonium	C[S+](C)C
+1-piperideine-2-carboxylate	C1(/N=C(CCC1)/C(=O)[O-])
+D-glycerate	C(=O)([O-])[C@H](O)CO
+cytosine 2',3'-cyclic monophosphate	
+ethidium	CC[N+]2(C4(/C=C(\C=C/C(/C3(C(/C(C1(\C=C/C=C\C=1))=2)=C\C(\N)=C/C=3))=4)/N))
+1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one	CSCCC(C(\[O-])=C\O)=O
+3-deoxy-D-glycero-2,5-hexodiulosonate	C(C([C@H](CC(C([O-])=O)=O)O)=O)O
+(8<i>S</i>)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate	C(OP([O-])(=O)OP([O-])(=O)OP([O-])(=O)[O-])[C@H]1(O[C@H]2(N3(C4(\N=C(N)/NC(=O)C(N[C@H]([C@](O)1[C@@H](O)2)3)=4))))
+(S)-3-hydroxy-(7Z)-hexadecenoyl-CoA	CCCCCCCC\C=C/CCC[C@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+2,5-bis-hydroxymethylfuran	C(O)C1(\OC(/CO)=C/C=1)
+(S)-3-hydroxy-(9Z)-octadecenoyl-CoA	CCCCCCCC\C=C/CCCCC[C@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+canavaninosuccinate	C(ONC(NC(CC(=O)[O-])C(=O)[O-])=[NH2+])C[C@H]([NH3+])C([O-])=O
+(S)-3-hydroxy-(5Z)-tetradecenoyl-CoA	CCCCCCCC\C=C/C[C@H](O)CC(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O
+thiamine phosphate	CC2(\[N+](/CC1(\C(\N)=N/C(\C)=N\C=1))=C/SC(/CCOP([O-])(=O)[O-])=2)
+(2E)-dec-2-enoyl-CoA	CCCCCCC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+5-oxo-L-proline	C(=O)([C@H]1(NC(CC1)=O))[O-]
+methanethiol	CS
+(2<i>E</i>)-dodec-2-enoyl-CoA	CCCCCCCCC/C=C/C(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O
+4'-phosphopantetheine	CC([C@@H](O)C(=O)NCCC(NCCS)=O)(C)COP([O-])(=O)[O-]
+(2<i>E</i>)-oct-2-enoyl-CoA	CCCCC/C=C/C(=O)SCCNC(=O)CCNC([C@H](O)C(C)(C)COP([O-])(=O)OP([O-])(=O)OC[C@@H]1([C@@H](OP(=O)([O-])[O-])[C@@H](O)[C@@H](O1)N2(\C=N/C3(C(/N)=N\C=N/C2=3))))=O
+3-deoxy-D-arabino-heptulosonate 7-phosphate	C(=O)([O-])C(=O)C[C@@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-]
+(2<i>E</i>)-hexenoyl-CoA	CCC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+isochorismate	C=C(C(=O)[O-])O[C@H]1(\C=C/C=C([C@@H]1O)/C([O-])=O)
+dihydrofurano derivative	CC(O)(C)CCC3(/C(/O)=C2(C(/O\C=C(C1(\C(\O)=C/C(/O)=C\C=1))/C(=O)2)=C\C(\OC)=3))
+<i>N</i><sup>&omega;</sup>,<i>N</i><sup>&omega;</sup>-dimethyl-L-arginine	CN(C(NCCC[C@H]([NH3+])C(=O)[O-])=[NH2+])C
+oxidized DCPIP	C2(/C=C(\C=C/C(/N=C1(/C=C(C(=O)C(/Cl)=C\1)/Cl))=2)/O)
+bacillithiol-bimane	
+glucosamine 1,6-diphosphate	C(OP([O-])(=O)[O-])[C@H]1(O[C@@H](OP([O-])(=O)[O-])[C@H]([NH3+])[C@@H](O)[C@H](O)1)
+&alpha;-L-idopyranuronate	C([O-])(=O)[C@@H]1(O[C@@H](O)[C@H](O)[C@@H](O)[C@H](O)1)
+<i>S</i>-methyl-L-cysteine	CSC[C@@H](C([O-])=O)[NH3+]
+2-methylacetoacetate	CC(C(C)=O)C(=O)[O-]
+&beta;-L-idopyranuronate	C([O-])(=O)[C@@H]1(O[C@H](O)[C@H](O)[C@@H](O)[C@H](O)1)
+<i>S</i>-methyl-L-methionine	C[S+](CC[C@H]([NH3+])C(=O)[O-])C
+hexulose 6-phosphate	C(O)C(O)C(=O)C(O)C(O)COP([O-])([O-])=O
+UDP-&alpha;-D-galactose	C(O)[C@@H]1([C@H](O)[C@H](O)[C@@H](O)[C@H](O1)OP(OP(OC[C@@H]3([C@H]([C@H]([C@H](N2(\C=C/C(=O)NC2=O))O3)O)O))(=O)[O-])(=O)[O-])
+salicyl alcohol	C(C1(/C=C\C=C/C(/O)=1))O
+biotin	C1(S[C@@H](CCCCC(=O)[O-])[C@H]2(NC(=O)N[C@@H]12))
+&alpha;-maltose	C([C@H]1(O[C@@H]([C@@H]([C@H]([C@@H]1O)O)O)O[C@@H]2([C@H](O[C@@H]([C@@H]([C@H]2O)O)O)CO)))O
+(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran	C[C@@]1(O)(OC[C@H](O)[C@@](O)(O)1)
+(<i>R</i>)-pantothenate	CC(C)(CO)[C@@H](O)C(=O)NCCC(=O)[O-]
+nicotinate	C1(\N=C/C(/C(=O)[O-])=C\C=1)
+maltopentaose	C([C@H]5(O[C@H](O[C@@H]4([C@H](O[C@H](O[C@@H]1([C@H](O[C@@H]([C@@H]([C@H]1O)O)O[C@@H]2([C@H](O[C@@H]([C@@H]([C@H]2O)O)O[C@@H]3([C@H](OC([C@@H]([C@H]3O)O)O)CO))CO))CO))[C@@H]([C@H]4O)O)CO))[C@@H]([C@H]([C@@H]5O)O)O))O
+adenosine 5'-phosphosulfate	C(OP([O-])(OS(=O)([O-])=O)=O)[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+maltoheptaose	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@@H](O)[C@H](O1)O[C@H]2([C@H](O)[C@@H](O)[C@H](O[C@H](CO)2)O[C@H]3([C@H](O)[C@@H](O)[C@H](O[C@H](CO)3)O[C@H]7([C@H](O)[C@@H](O)[C@@H](O[C@H]6([C@H](O)[C@@H](O)[C@@H](O[C@H]4([C@H](O)[C@@H](O)[C@H](O[C@H](CO)4)O[C@H]5([C@H](O)[C@@H](O)C(O)O[C@H](CO)5)))O[C@H](CO)6))O[C@H](CO)7))))
+maltotetraose	C([C@H]4(O[C@H](O[C@@H]3([C@H](O[C@H](O[C@@H]2([C@H](O[C@H](O[C@@H]1([C@H](OC(O)[C@@H]([C@H]1O)O)CO))[C@@H]([C@H]2O)O)CO))[C@@H]([C@H]3O)O)CO))[C@@H]([C@@H](O)[C@@H]4O)O))O
+triphosphate	[O-]P(OP(=O)(OP([O-])(=O)[O-])[O-])([O-])=O
+(1<i>S</i>,6<i>R</i>)-2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate	C1(\C=C([C@H](C(=O)[O-])[C@H](O)\C=1)\C(=O)CCC(=O)[O-])
+linoleate	CCCCC\C=C/C\C=C/CCCCCCCC([O-])=O
+diphosphate	O=P(O)(OP([O-])([O-])=O)[O-]
+D-proline	C1([NH2+][C@H](CC1)C(=O)[O-])
+(<i>S</i>)-5-hydroxyisourate	C2([C@]1(O)(NC(=O)NC/1=N/C(=O)N2))(=O)
+maltotriose	C([C@H]1(O[C@@H]([C@@H]([C@H]([C@@H]1O)O)O)O[C@@H]2([C@H](O[C@@H]([C@@H]([C@H]2O)O)O[C@@H]3([C@H](OC([C@@H]([C@H]3O)O)O)CO))CO)))O
+D-lysine	C([NH3+])CCC[C@@H]([NH3+])C([O-])=O
+oxalosuccinate	C(C([O-])=O)C(C(C(=O)[O-])=O)C([O-])=O
+maltohexaose	C([C@H]6(O[C@H](O[C@@H]5([C@H](O[C@H](O[C@@H]4([C@H](O[C@H](O[C@@H]1([C@H](O[C@@H]([C@@H]([C@H]1O)O)O[C@@H]2([C@H](O[C@@H]([C@@H]([C@H]2O)O)O[C@@H]3([C@H](OC([C@@H]([C@H]3O)O)O)CO))CO))CO))[C@@H]([C@H]4O)O)CO))[C@@H]([C@H]5O)O)CO))[C@@H]([C@H]([C@@H]6O)O)O))O
+phosphate	[O-]P(=O)(O)[O-]
+D-serine	C(O)[C@@H]([NH3+])C(=O)[O-]
+2-C-methyl-D-erythritol-2,4-cyclodiphosphate	C[C@@]1(CO)(OP(=O)([O-])OP(=O)([O-])OC[C@@H](O)1)
+phytate	[C@@H]1(OP([O-])([O-])=O)([C@H](OP([O-])(=O)[O-])[C@@H](OP([O-])(=O)[O-])[C@H](OP(=O)([O-])[O-])[C@@H](OP(=O)([O-])[O-])[C@@H](OP([O-])([O-])=O)1)
+D-alanine	C[C@@H]([NH3+])C([O-])=O
+3-hydroxypropanal	C(C=O)CO
+dihydrogen phosphate	O=P(O)([O-])O
+6-<i>O</i>-methyl-&beta;-D-galacturonate	COC(=O)[C@@H]1([C@@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)
+D-ornithine	C(C[NH3+])C[C@@H]([NH3+])C([O-])=O
+autoinducer 2	CC(C([C@H](CO)O)=O)=O
+&alpha;-D-galacturonate	C([O-])(=O)[C@@H]1([C@@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)
+D-glutamate	C(CC[C@H](C(=O)[O-])[NH3+])([O-])=O
+cyclohexanone	C1(CCC(CC1)=O)
+hydrosulfide	[SH-]
+&beta;-D-galacturonate	C([O-])(=O)[C@@H]1([C@@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)
+D-methionine	CSCC[C@@H]([NH3+])C([O-])=O
+oxidized SDS	
+vanadate	O=[V]([O-])([O-])[O-]
+<i>aldehydo</i>-D-galacturonate	C(=O)[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)C(=O)[O-]
+1,4-dihydroxy-2-naphthoyl-CoA	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(C1(/C=C(C2(\C(\C(\O)=1)=C/C=C\C=2))/O))=O)COP(=O)(OP(=O)(OC[C@@H]3([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O3)N4(C5(\N=C/N=C(C(\N=C/4)=5)/N))))[O-])[O-]
+(<i>R</i>)-<i>S</i>-lactoylglutathione	C[C@@H](O)C(=O)SC[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+arsenite<sup>2-</sup>	[As](O)([O-])[O-]
+4-(2'-carboxyphenyl)-4-oxobutyryl-CoA	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(CCC(C1(/C=C\C=C/C(/C([O-])=O)=1))=O)=O)COP(=O)(OP(=O)(OC[C@H]2(O[C@H]([C@@H]([C@@H]2OP([O-])(=O)[O-])O)N3(C4(\N=C/N=C(C(\N=C/3)=4)/N))))[O-])[O-]
+<i>S</i>-(2-succinyl)-glutathione	C(SC(CC([O-])=O)C(=O)[O-])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+sulfate	O=S(=O)([O-])[O-]
+<i>ditrans,octacis</i>-undecaprenyldiphospho-(<i>N</i>-acetylglucosaminyl)muramic &delta;-lactam	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(OP(O[C@H]2(O[C@H](CO)[C@@H](O[C@@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](NC(=O)C)1))C3(OC(C)C(=O)NC23)))([O-])=O)(=O)[O-]
+&beta;-D-fructofuranose 1,6-bisphosphate	C(OP(=O)([O-])[O-])[C@@H]1([C@H]([C@@H]([C@](O)(O1)COP(=O)([O-])[O-])O)O)
+nitrite	N([O-])=O
+<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramate	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(OP(O[C@H]2(O[C@H](CO)[C@@H](O[C@@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](NC(=O)C)1))[C@H](O[C@@H](C(=O)[O-])C)[C@@H](NC(=O)C)2))([O-])=O)(=O)[O-]
+<i>S</i>-sulfanylglutathione	C(SS)[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+hydrogencarbonate	C([O-])(=O)O
+<i>S</i>-methyl-5-thio-D-ribulose 1-phosphate	CSC[C@@H](O)[C@@H](O)C(=O)COP([O-])(=O)[O-]
+3D-(3,5/4)-trihydroxycyclohexane-1,2-dione	C1([C@H]([C@@H]([C@H](C(C1=O)=O)O)O)O)
+S<sup>2-</sup>	[S-2]
+4-amino-2-methyl-5-(diphosphooxymethyl)pyrimidine	CC1(\N=C(C(/COP([O-])(=O)OP([O-])(=O)[O-])=C\N=1)\N)
+<i>scyllo</i>-inosose	[C@@H]1([C@@H]([C@H](C([C@H]([C@@H]1O)O)=O)O)O)O
+molybdate	[Mo](=O)(=O)([O-])[O-]
+shikimate	C1(/[C@@H](O)[C@@H](O)[C@@H](CC(/C(=O)[O-])=1)O)
+1-keto-D-<i>chiro</i>-inositol	[C@H]1(O)([C@@H](O)[C@@H](O)C(=O)[C@H](O)[C@@H](O)1)
+superoxide	[O-]O
+(<i>R</i>)-4'-phosphopantothenate	CC([C@H](C(=O)NCCC(=O)[O-])O)(COP([O-])([O-])=O)C
+arsenate	[As](=O)(O)([O-])[O-]
+&beta;-nicotinate D-ribonucleotide	C(OP(=O)([O-])[O-])[C@@H]2([C@@H](O)[C@@H](O)[C@H]([N+]1(\C=C/C=C(/C=1)/C(=O)[O-]))O2)
+glutathione disulfide	C(SSC[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O)[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+arbutin 6-phosphate	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](OC1(\C=C/C(/O)=C\C=1))[C@H](O)[C@@H](O)[C@H](O)2)
+OH<SUP>-</SUP>	[OH-]
+2-hydroxy-5-(methylsulfanyl)-3-oxopent-1-enyl 1-phosphate	CSCCC(C(\[O-])=C\OP([O-])(=O)[O-])=O
+glutathione	C(S)[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+salicin 6-phosphate	C2(\C=C(CO)/C(/O[C@@H]1(O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@H](O)[C@@H](O)1))=C\C=2)
+hydrogensulfite	OS(=O)[O-]
+(<i>E</i>)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate	CC(/CO)=C\COP(OP([O-])(=O)[O-])(=O)[O-]
+1D-<i>chiro</i>-inositol	[C@H]1([C@@H]([C@@H]([C@H]([C@@H]([C@H]1O)O)O)O)O)O
+arsenite	[As](O)([O-])O
+dihydrolipoamide	C(CCC(N)=O)C[C@@H](S)CCS
+<i>N</i>-acetyl-<i>S</i>-hydroxy-L-cysteine	CC(=O)N[C@@H](CSO)C([O-])=O
+chromate	[Cr](=O)([O-])([O-])=O
+tetrahydro-4-hydroxyphenylpyruvate	C([O-])(=O)C(=O)CC1(CCC(O)\C=C/1)
+<I>myo</I>-inositol	[C@H]1([C@@H]([C@H]([C@@H]([C@H]([C@H]1O)O)O)O)O)O
+arsenite<sup>3-</sup>	[As]([O-])([O-])[O-]
+fructosevaline-6-phosphate	C(NC(C(O)=O)C(C)C)C(=O)[C@@H](O)[C@H](O)[C@H](O)COP(=O)([O-])[O-]
+<i>scyllo</i>-inositol	[C@H]1([C@@H]([C@H]([C@@H]([C@H]([C@@H]1O)O)O)O)O)O
+sulfite	[O-]S([O-])=O
+2-hydroxy-3-oxosuccinate	C(C(C(C([O-])=O)=O)O)([O-])=O
+nitrate	N(=O)(=O)[O-]
+(4-hydroxyphenyl)-enolpyruvate	C([O-])(=O)C(\O)=C\C1(\C=C/C(/O)=C\C=1)
+(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate	C1([C@H](O)CC(/C([O-])=O)=N\[C@@H]1C([O-])=O)
+furaneol (enol form)	CC1(/OC(\C)=C(C(/O)=1)/O)
+(<i>S</i>)-2-amino-6-oxohexanoate	C(=O)CCC[C@H]([NH3+])C(=O)[O-]
+(<i>2E,6E</i>)-farnesoate	CC(C)=CCCC(\C)=C/CCC(\C)=C/C(=O)[O-]
+K<SUP>+</SUP>	[K+]
+(R)-4'-phosphopantothenoyl-L-cysteine	CC(C)(COP(=O)([O-])[O-])[C@@H](O)C(=O)NCCC(=O)N[C@@H](CS)C(=O)[O-]
+Na<SUP>+</SUP>	[Na+]
+(4-hydroxyphenyl)acetate	C1(\C=C(\C=C/C(\CC(=O)[O-])=1)\O)
+sucrose	C(O)[C@H]2(O[C@H](O[C@]1(CO)(O[C@H](CO)[C@@H](O)[C@H](O)1))[C@H](O)[C@@H](O)[C@H](O)2)
+<i>N</i>-(5-phosphoribosyl)-anthranilate	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](NC1(/C=C\C=C/C(/C(=O)[O-])=1))[C@H](O)[C@H](O)2)
+2-<i>O</i>-(4-deoxy-&beta;-L-threo-hex-4-enopyranuronosyl)-&alpha;-L-rhamnopyranose	C[C@H]1([C@H](O)[C@H]([C@H]([C@@H](O1)O)O[C@H]2(OC(/C([O-])=O)=C/[C@@H]([C@H]2O)O))O)
+2-C-methyl-D-erythritol 4-phosphate	C[C@](O)(CO)[C@H](O)COP([O-])([O-])=O
+&beta;-D-galactopyranosyl-(1&rarr;3)-D-galactopyranose	C(O)[C@@H]2([C@H](O)[C@H](O)[C@@H](O)[C@H](O[C@@H]1([C@H](C(O[C@H](CO)[C@@H]1O)O)O))O2)
+4-amino-2-methyl-5-pyrimidinemethanol	CC1(\N=C(C(/CO)=C\N=1)\N)
+melibiose	C([C@H]1(O[C@@H]([C@@H]([C@H]([C@H]1O)O)O)OC[C@H]2(OC([C@@H]([C@H]([C@@H]2O)O)O)O)))O
+2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	C([C@@H]2([C@@H](O)[C@@H](O)[C@H](NC1(/N=C(N)\NC(=O)C(/N)=1))O2))OP(=O)([O-])[O-]
+doxorubicin	C[C@H]1([C@@H](O)[C@@H]([NH3+])C[C@@H](O1)O[C@H]2(C[C@](O)(C(=O)CO)CC3(/C\2=C(C4(\C(=O)C5(/C(/OC)=C\C=C/C(/C(=O)C(/C(/O)=3)=4)=5)))/O)))
+bacillithiol	C(S)[C@H]([NH3+])C(=O)N[C@@H]1([C@@H](O)[C@H](O)[C@@H](CO)O[C@H](O[C@@H](CC([O-])=O)C(=O)[O-])1)
+2-phosphoglycolate	C(OP([O-])(=O)[O-])C([O-])=O
+(7<i>R</i>,8<i>S</i>)-8-amino-7-(carboxyamino)nonanoate	C[C@@H]([C@@H](CCCCCC([O-])=O)NC(=O)[O-])[NH3+]
+glycine betaine	C[N+](C)(CC([O-])=O)C
+(2S)-2-amino-4-deoxy-chorismate	C=C(O[C@H]1(\C=C/C=C([C@@H]1[NH3+])/C(=O)[O-]))C(=O)[O-]
+phenylacetate	C([O-])(=O)CC1(\C=C/C=C\C=1)
+5-(methylsulfanyl)-D-ribose	CSC[C@H]1(OC([C@@H]([C@@H]1O)O)O)
+glycolate	C(C(=O)[O-])O
+cerulenin	C/C=C/C/C=C/CCC(=O)[C@@H]1(O[C@@H](C(N)=O)1)
+<i>S</i>-(hydroxymethyl)bacillithiol	C(SCO)[C@H]([NH3+])C(=O)N[C@@H]1([C@@H](O)[C@H](O)[C@@H](CO)O[C@H](O[C@@H](CC([O-])=O)C(=O)[O-])1)
+D-mannonate	C(O)[C@H]([C@@H](O)[C@H](O)[C@@H](C([O-])=O)O)O
+amicoumacin B	CC(C)C[C@@H]([C@@H]1(CC2(/C=C\C=C(C(/C(=O)O1)=2)\O)))NC([C@H]([C@H]([C@H](CC(=O)[O-])[NH3+])O)O)=O
+cyclopropylglycine	C(=O)([O-])C([NH3+])C1(CC1)
+L-carnitine	C([C@H](O)CC(=O)[O-])[N+](C)(C)C
+chloramphenicol	C(O)[C@@H](NC(=O)C(Cl)Cl)[C@@H](C1(\C=C/C(/[N+](=O)[O-])=C\C=1))O
+kanosamine	C(O)[C@@H]1([C@@H](O)[C@H]([NH3+])[C@@H](O)C(O)O1)
+carbonate	C([O-])(=O)[O-]
+phospho<i>enol</i>pyruvate	C=C(OP(=O)([O-])[O-])C([O-])=O
+mitoxantrone	
+xanthine	C12(NC(=O)NC(C(\N=C/N1)=2)=O)
+(R)-pantoate	CC(C)(CO)[C@H](C([O-])=O)O
+amicoumacin A 2-phosphate	CC(C)C[C@@H]([C@@H]1(CC2(/C=C\C=C(C(/C(=O)O1)=2)\O)))NC([C@H]([C@H]([C@H](CC(=O)N)[NH3+])O)OP([O-])(=O)[O-])=O
+5-amino-1-(5-phospho-&beta;-D-ribosyl)imidazole	C1(\[NH+]=C/N(C(/N)=1)[C@@H]2(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@@H](O)2))
+&gamma;-butyrobetaine	C[N+](CCCC([O-])=O)(C)C
+roseoflavin	CC3(/C=C2(C(/N(C[C@H](O)[C@H](O)[C@H](O)CO)C1(\C(\C(=O)[N-]C(=O)/N=1)=N/2))=C\C(\N(C)C)=3))
+prenol	CC(C)=CCO
+5-deoxy-D-glucuronate	C(C(=O)[O-])[C@@H](O)[C@H](O)[C@@H](O)C=O
+amicoumacin B 2-phosphate	CC(C)C[C@@H]([C@@H]1(CC2(/C=C\C=C(C(/C(=O)O1)=2)\O)))NC([C@H]([C@H]([C@H](CC(=O)[O-])[NH3+])O)OP(=O)([O-])[O-])=O
+porphyrin-ring	C1(\C2(\C=C5(\C=C/C(\C=C4(\C=C/C(\C=C3(\C=C/C(\C=C(\C=1)/N=2)=N3))=N4))=N5)))
+3-phosphooxypyruvate	C(OP([O-])(=O)[O-])C(=O)C(=O)[O-]
+orotate	C1(\C(=O)NC(NC(/C([O-])=O)=1)=O)
+amicoumacin A	CC(C)C[C@@H]([C@@H]1(CC2(/C=C\C=C(C(/C(=O)O1)=2)\O)))NC([C@H]([C@H]([C@H](CC(=O)N)[NH3+])O)O)=O
+nt-pentose-ring	C(C1(C(C(CO1)O)O))O
+L-histidinol phosphate	C1(\N\C=N/C(\C[C@@H](COP([O-])(=O)[O-])[NH3+])=1)
+D-gluconate	C(O)[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)[O-]
+sterone-ring	C3(CCC2(C4(CCC1(CCCC1C(CCC2C3)4))))
+carbonic acid	C(O)(=O)O
+pteridine-ring	C1(\C=N/C2(\C=N/C=N\C(\N=1)=2))
+3-methylbut-3-en-1-yl diphosphate	C=C(C)CCOP([O-])(=O)OP([O-])(=O)[O-]
+pentose-ring	C(C1(OC(C(O)C(O)1)O))O
+deoxyribose 5-phosphate	
+purine-ring	C1(\C2(N\C=N/C(\N=C/N=1)=2))
+L-glutamine	C(=O)(N)CC[C@H]([NH3+])C([O-])=O
+arsenous acid	[As](O)(O)O
+phenanthrene-ring	C2(\C=C1(\C=C/C3(\C=C/C=C\C(C1=C\C=2)=3)))
+<i>meso</i>-diaminopimelate	C([C@H](CCC[C@H](C([O-])=O)[NH3+])[NH3+])([O-])=O
+glyoxal	C(C=O)=O
+adenine-ring	C1(\NC2(\C(\N=1)=N/C=N\C(/N)=2))
+L-anticapsin	C([C@@H]([NH3+])C[C@@H]2(CCC(=O)[C@@H]1(O[C@@H]12)))([O-])=O
+<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate	CSC[C@H]1(O[C@H](OP([O-])(=O)[O-])[C@@H]([C@@H]1O)O)
+pyridine-ring	C1(\N=C/C=C\C=1)
+&alpha;-D-idopyranuronate	C([O-])(=O)[C@H]1(O[C@H](O)[C@@H](O)[C@H](O)[C@@H](O)1)
+L-arginine	C(NC(N)=[NH2+])CC[C@H]([NH3+])C(=O)[O-]
+<i>N</i>-acetyl-&alpha;-D-glucosaminyl-phospho-<i>ditrans,octacis</i>-undecaprenol	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])O[C@@H]1([C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)NC(C)=O)
+glycerol	C(C(O)CO)O
+L-isoglutamine	C(CC([O-])=O)[C@@H](C(N)=O)[NH3+]
+&beta;-D-idopyranuronate	C([O-])(=O)[C@H]1(O[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)1)
+bisorganyltrisulfane	C(SSSCC(NC(=O)CCC([NH3+])C(=O)[O-])C(=O)NCC(=O)[O-])C(C(O)NCC(=O)[O-])NC(CCC(C([O-])=O)[NH3+])=O
+hydrogen sulfide	S
+dioxygen	O=O
+L-threonine	C[C@@H](O)[C@H]([NH3+])C(=O)[O-]
+CO<SUB>2</SUB>	C(=O)=O
+nitric oxide	N=O
+a-dglc-HEX-1:4	
+L-glutamate	C(CC[C@@H](C(=O)[O-])[NH3+])([O-])=O
+thiamine diphosphate	CC2(\[N+](/CC1(\C(\N)=N/C(\C)=N\C=1))=C/SC(/CCOP([O-])(=O)OP([O-])(=O)[O-])=2)
+b-dglc-HEX-1:5|6:a	
+b-xglc-HEX-1:5|6:a	
+L-dihydroanticapsin	C([C@@H]([NH3+])C[C@@H]2(CC[C@@H](O)[C@@H]1(O[C@@H]12)))([O-])=O
+5-phospho-&beta;-D-ribosylamine	C(OP([O-])(=O)[O-])[C@@H]1([C@@H](O)[C@@H](O)[C@H]([NH3+])O1)
+x-dglc-HEX-1:5|6:a	
+a-dglc-HEX-1:5	
+L,L-diaminopimelate	C([C@H](CCC[C@@H](C([O-])=O)[NH3+])[NH3+])([O-])=O
+3'-phosphoadenylyl-sulfate	C(OP(=O)([O-])OS(=O)([O-])=O)[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](OP([O-])(=O)[O-])3)
+b-dglc-HEX-1:5	
+b-lglc-HEX-1:5|6:a	
+L-asparagine	C(C[C@@H](C(=O)[O-])[NH3+])(N)=O
+5-enolpyruvoyl-shikimate 3-phosphate	C=C(C(=O)[O-])O[C@@H]1(CC(/C(=O)[O-])=C\[C@@H](OP(=O)([O-])[O-])[C@@H](O)1)
+x-dglc-HEX-1:5	
+x-dglc-HEX-1:5|6:d	
+L-cystathionine	C(SC[C@@H](C([O-])=O)[NH3+])C[C@H]([NH3+])C([O-])=O
+L-arginino-succinate	C(NC(NC(CC(=O)[O-])C(=O)[O-])=[NH2+])CC[C@@H](C(=O)[O-])[NH3+]
+pyruvate	CC(=O)C(=O)[O-]
+x-dglc-HEX-1:4	
+L-histidine	C1(\N\C=N/C(\C[C@@H](C(=O)[O-])[NH3+])=1)
+enol-phenylpyruvate	C([O-])(=O)C(\O)=C\C1(\C=C/C=C\C=1)
+acetate	CC([O-])=O
+b-dglc-HEX-1:5|6:d	
+L-lysine	C([NH3+])CCC[C@H]([NH3+])C([O-])=O
+3-dehydroquinate	C(=O)([O-])[C@]1(O)(CC(=O)[C@@H](O)[C@H](O)C1)
+acetic acid	CC(O)=O
+a-dglc-HEX-1:5|6:d	
+N<sup>&omega;</sup>-hydroxy-L-arginine	C(NC(NO)=[NH2+])CC[C@H]([NH3+])C([O-])=O
+UDP-2,4,6-trideoxy-2-acetamido-4-amino glucose	
+formate	C([O-])=O
+a-dglc-HEX-1:4|6:a	
+L-tyrosine	C([C@H](CC1(\C=C/C(/O)=C\C=1))[NH3+])(=O)[O-]
+actinonin	CCCCC[C@H](CC(NO)=O)C(N[C@@H](C(C)C)C(N1(CCC[C@@H](CO)1))=O)=O
+x-dglc-HEX-x:x	
+benzaldehyde	C(=O)C1(\C=C/C=C\C=1)
+L-serine	C(O)[C@H]([NH3+])C(=O)[O-]
+(2-carboxy-2,5-dihydro-5-oxofuran-2-yl)-acetate	C(C[C@]1(OC(\C=C/1)=O)C([O-])=O)([O-])=O
+&alpha;-D-arabinofuranose	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@@H](O)O1)
+4-nitrobenzaldehyde	C(=O)C1(\C=C/C(/[N+]([O-])=O)=C\C=1)
+phenylacetaldehyde	C(=O)CC1(\C=C/C=C\C=1)
+glutarate semialdehyde	C(CCCC(=O)[O-])=O
+demethylmenaquinol-7	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(/C=C(C2(/C=C\C=C/C(/C(/O)=1)=2))/O)
+4-vinylguaiacol	C=CC1(\C=C/C(/O)=C(C=1)/OC)
+9H-purine-2,6,8-triol	C12(/N=C(NC(C(/O)=N\C(\O)=N/1)=2)/O)
+<i>N</i>-acetyl-L,L-2,6-diaminopimelate	CC(=O)N[C@@H](CCC[C@H]([NH3+])C(=O)[O-])C(=O)[O-]
+(2<i>S</i>,3<i>S</i>)-2-methylcitrate	C[C@H](C(=O)[O-])[C@@](O)(CC(=O)[O-])C(=O)[O-]
+vanillin	COC1(\C(\O)=C/C=C(/C=1)/C=O)
+L-tartrate	C([C@@H]([C@H](C([O-])=O)O)O)([O-])=O
+(2S,4S)-2-methyl-2,4-dihydroxydihydrofuran-3-one	C[C@]1(O)(OC[C@H](O)C(=O)1)
+<i>trans</i>-aconitate	C([O-])(=O)/C=C(CC([O-])=O)/C([O-])=O
+tetraprenyl-&beta;-curcumene	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC[C@@H](C)C1(\C\C=C(C)/C/C=1)
+4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	C[C@](O)(CO)[C@H](O)COP(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O))(=O)[O-])([O-])=O
+butanoyl phosphate	CCCC(OP([O-])([O-])=O)=O
+(2<i>R</i>,3<i>S</i>)-2-methylisocitrate	C[C@@]([C@H](CC([O-])=O)C([O-])=O)(C([O-])=O)O
+cob(II)inamide	C[C@@H](O)CNC(=O)CC[C@]1(C)([C@@H](CC(=O)N)[C@@H]8([C@@]6(C)([C@@](C)(CC(N)=O)[C@H](CCC(N)=O)C7(\C(/C)=C4([C@@](C)(CC(N)=O)[C@H](CCC(N)=O)C5(\C=C2(C(C)(C)[C@H](CCC(N)=O)C3(\C(/C)=C1/N([Co-2]([N+]\2=3)([N+]4=5)[N+]\6=7)8))))))))
+(2<i>R</i>)-2,3-dihydroxy-3-methylbutanoate	CC(C)(O)[C@@H](O)C(=O)[O-]
+adenosylcobinamide	C[C@@H](O)CNC(=O)CC[C@]1(C)([C@@H](CC(=O)N)[C@@H]%11([C@@]6(C)([C@@](C)(CC(N)=O)[C@H](CCC(N)=O)C7(\C(/C)=C4([C@@](C)(CC(N)=O)[C@H](CCC(N)=O)C5(\C=C2(C(C)(C)[C@H](CCC(N)=O)C3(\C(/C)=C1/N([Co-2]([N+]\2=3)([N+]4=5)([N+]\6=7)C[C@@H]8([C@H]([C@@H](O)[C@@H](O8)N9(\C=N/C%10(\C/9=N/C=N\C(/N)=%10)))O))%11))))))))
+<i>cis</i>-aconitate	C([O-])(=O)C(/CC(=O)[O-])=C/C(=O)[O-]
+L-homocysteine	C(S)C[C@@H](C(=O)[O-])[NH3+]
+5-dehydro-4-deoxy-D-glucarate	C(C(C[C@@H]([C@H](C([O-])=O)O)O)=O)([O-])=O
+sirohydrochlorin	C[C@@]1(CC(=O)[O-])(C3(\NC(/[C@@H](CCC(=O)[O-])1)=C/C2(/C(\CC(=O)[O-])=C(CCC(=O)[O-])\C(\N=2)=C\C5(\NC(/C=C4([C@@](C)(CC(=O)[O-])[C@H](CCC(=O)[O-])C(\C=3)=N4))=C(CC(=O)[O-])/C(\CCC(=O)[O-])=5))))
+<i>cis</i>-2-methylaconitate	CC(\C([O-])=O)=C(CC([O-])=O)\C([O-])=O
+MoO<sub>2</sub>-molybdopterin cofactor	C(OP([O-])(=O)[O-])[C@@H]1(C4(\S[Mo](=O)(=O)SC(/[C@H]2([C@@H](O1)NC3(/N=C(N)\NC(=O)C(/N2)=3)))=4))
+oxamate	C(C([O-])=O)(=O)N
+guanylyl molybdenum cofactor	C(OP(OP(=O)([O-])OC[C@H]2(O[C@H]1(NC4(/N=C(N)\NC(=O)C(/N[C@H]1C3(\S[Mo](=O)(=O)SC\2=3))=4))))(=O)[O-])[C@H]7(O[C@@H](N5(C6(\N=C(N)/NC(=O)C(\N=C/5)=6)))[C@H](O)[C@H](O)7)
+a-dglc-HEX-1:5|6:a	
+L-alanyl-&gamma;-D-glutamyl-<i>meso</i>-2,6-diaminopimeloyl-D-alanine	C[C@H]([NH3+])C(=O)N[C@H](CCC(=O)N[C@H](C(N[C@H](C)C([O-])=O)=O)CCC[C@@H]([NH3+])C(=O)[O-])C(=O)[O-]
+L-phosphinothricin	CP(CC[C@H]([NH3+])C(=O)[O-])([O-])=O
+(2<i>S</i>)-2-isopropylmalate	CC(C)[C@@](O)(CC(=O)[O-])C([O-])=O
+deacetylcephalosporin C	C(O)C1(\CS[C@@H]2([C@H](NC(=O)CCC[C@@H]([NH3+])C(=O)[O-])C(=O)N(C(/C(=O)[O-])=1)2))
+thymine	CC1(\C(=O)NC(N\C=1)=O)
+cephalosporin C	CC(=O)OCC1(\CS[C@@H]2([C@@H](C(=O)N(C(/C(=O)[O-])=1)2)NC(=O)CCC[C@@H]([NH3+])C(=O)[O-]))
+3-(imidazol-4-yl)-2-oxopropyl phosphate	C1(\N\C=N/C(\CC(COP([O-])(=O)[O-])=O)=1)
+2,3-diphospho-D-glycerate	C(OP([O-])(=O)[O-])[C@@H](OP(=O)([O-])[O-])C(=O)[O-]
+arsenic triglutathione	C(NC([C@@H](NC(=O)CC[C@H]([NH3+])C([O-])=O)CS[As](SC[C@H](NC(=O)CC[C@H]([NH3+])C(=O)[O-])C(NCC([O-])=O)=O)SC[C@H](NC(=O)CC[C@H]([NH3+])C(=O)[O-])C(NCC([O-])=O)=O)=O)C([O-])=O
+1-(5-phospho-&beta;-D-ribosyl)-AMP	C(OP([O-])(=O)[O-])[C@H]4(O[C@@H](N1(C(C2(\N=C/N(C(\N=C/1)=2)[C@@H]3(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@@H](O)3)))=N))[C@H](O)[C@@H]4O)
+dimethylamine	C[NH2+]C
+3-phospho-D-glyceroyl phosphate	C([C@@H](O)C(OP(=O)([O-])[O-])=O)OP(=O)([O-])[O-]
+6-carboxy-5,6,7,8-tetrahydropterin	C1(NC2(/N=C(N)\NC(=O)C(/NC1C(=O)[O-])=2))
+6-phospho D-glucono-1,5-lactone	C(OP([O-])(=O)[O-])[C@@H]1([C@@H](O)[C@H](O)[C@@H](O)C(=O)O1)
+UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimeloyl-D-alanyl-D-alanine	C[C@H](C(=O)N[C@H](C)C(=O)[O-])NC(=O)[C@H](CCC[C@H](C([O-])=O)[NH3+])NC(=O)CC[C@@H](NC(=O)[C@@H](NC([C@H](O[C@@H]3([C@@H](NC(=O)C)[C@@H](OP([O-])(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])=O)O[C@H](CO)[C@@H](O)3))C)=O)C)C(=O)[O-]
+1-(5-phospho-&beta;-D-ribosyl)-ATP	C(OP([O-])(=O)[O-])[C@H]4(O[C@@H](N1(C(C2(\N=C/N(C(\N=C/1)=2)[C@@H]3(O[C@H](COP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@@H](O)[C@@H](O)3)))=N))[C@H](O)[C@@H]4O)
+UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl-D-alanyl-D-alanine	C[C@H](C(=O)N[C@H](C)C(=O)[O-])NC(=O)[C@H](CCCC[NH3+])NC(=O)CC[C@@H](NC(=O)[C@@H](NC([C@H](O[C@@H]3([C@@H](NC(=O)C)[C@@H](OP([O-])(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])=O)O[C@H](CO)[C@@H](O)3))C)=O)C)C(=O)[O-]
+(<i>S</i>)-malyl &alpha;-D-glucosaminide	C([C@@H]1([C@H]([C@@H]([C@H]([C@@H](O[C@@H](CC([O-])=O)C([O-])=O)O1)[NH3+])O)O))O
+UDP-<I>N</I>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimelate	C[C@H](NC([C@H](O[C@@H]3([C@@H](NC(=O)C)[C@@H](OP([O-])(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])=O)O[C@H](CO)[C@@H](O)3))C)=O)C(N[C@H](CCC(=O)N[C@@H](CCC[C@H](C(=O)[O-])[NH3+])C([O-])=O)C(=O)[O-])=O
+5'-deoxyadenosine	C[C@H]3(O[C@@H](N1(C2(\N=C/N=C(C(\N=C/1)=2)/N)))[C@H](O)[C@H](O)3)
+protoheme	C=CC4(\C(/C)=C5(\C=C6(C(/C)=C(CCC(=O)[O-])/C7(\C=C8(C(/CCC(=O)[O-])=C(C)/C1(/N([Fe-2]3(N(C(/C=C2(C(/C)=C(C=C)/C(\C=1)=[N+]2/3))=4)5)([N+]/6=7))8))))))
+D-<i>erythro</i>-7,8-dihydroneopterin	C1(NC2(/N=C(N)\NC(=O)C(/N=C1/[C@H](O)[C@H](O)CO)=2))
+<i>N</i>-acetylphosphinothricin	CC(=O)N[C@H](C(=O)[O-])CCP(C)([O-])=O
+bacillibactin	C[C@@H]4([C@H](NC(=O)CNC(=O)C1(/C=C\C=C(C(\O)=1)\O))C(=O)O[C@H](C)[C@H](NC(=O)CNC(=O)C2(\C(\O)=C(\C=C/C=2)\O))C(=O)O[C@H](C)[C@H](NC(=O)CNC(=O)C3(\C(\O)=C(\C=C/C=3)\O))C(=O)O4)
+(2<i>S</i>)-2-isopropyl-3-oxosuccinate	CC([C@H](C(=O)[O-])C(=O)C(=O)[O-])C
+L-&beta;-lysine	C(CC[C@@H](CC([O-])=O)[NH3+])[NH3+]
+cyclo(L-leucyl-L-leucyl)	CC(C)C[C@@H]1(NC(=O)[C@H](CC(C)C)NC(=O)1)
+dialurate	C1(=O)(NC(=O)[C@H](O)C(=O)N1)
+(1<i>S</i>,2<i>R</i>)-1-C-(indol-3-yl)glycerol 3-phosphate	C1(/NC2(/C=C\C=C/C(/C(/[C@@H]([C@@H](COP([O-])(=O)[O-])O)O)=1)=2))
+UDP-<i>N</i>-acetyl-&alpha;-D-galactosamine	CC(N[C@H]3([C@@H](OP(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])(=O)[O-])O[C@@H]([C@@H]([C@@H]3O)O)CO))=O
+ferroheme <i>i</i>	C=CC4(\C6(/C=C8(C(/C)=C(CCC(=O)[O-])/C1(/N([Fe-2]35([N+]2(\C(/C(/CO)=C(CCC(=O)[O-])\C(/C=1)=2)=C/C7(/N3C(\C=C(C(/C)=4)/[N+]\5=6)=C(C(/C)=7)/[C@@H](O)CC/C=C(C)/CC/C=C(C)/CCC=C(C)C))))8))))
+4-vinylphenol	C=CC1(\C=C/C(/O)=C\C=1)
+hydroxyferroheme <i>i</i>	C=CC4(\C6(/C=C8(C(/C)=C(CCC(=O)[O-])/C1(/N([Fe-2]35([N+]2(\C(/C(/C(O)O)=C(CCC(=O)[O-])\C(/C=1)=2)=C/C7(/N3C(\C=C(C(/C)=4)/[N+]\5=6)=C(C(/C)=7)/[C@@H](O)CC/C=C(C)/CC/C=C(C)/CCC=C(C)C))))8))))
+reserpine	COC1(\C=C/C2(/C3(\CCN5([C@@H](C(\NC(/C=1)=2)=3)C[C@@H]6([C@H](C(OC)=O)[C@@H](OC)[C@H](OC(=O)C4(\C=C(C(\OC)=C(/C=4)\OC)\OC))C[C@H](C5)6)))))
+ammonia	N
+ferroheme <i>o</i>	C=CC3(\C7(\[N+]4(\[Fe-2]16([N+]5(\C(/C(\CCC(=O)[O-])=C(C)\C(/C=C2(C(\C)=C(C(\N12)=C\C(\C(/C)=3)=4)/[C@@H](O)CC/C=C(C)/CC/C=C(C)/CCC=C(C)C))=5)=C/C8(/N6C(/C=7)=C(C)/C(\CCC(=O)[O-])=8))))))
+CDP-4-dehydro-6-deoxy-&alpha;-D-glucose	C[C@H]1(O[C@@H]([C@@H]([C@H](C1=O)O)O)OP(OP(OC[C@@H]3([C@H]([C@H]([C@H](N2(\C=C/C(/N)=N\C2=O))O3)O)O))(=O)[O-])([O-])=O)
+shikimate 3-phosphate	C(=O)([O-])C1(\C[C@@H](O)[C@H](O)[C@H](OP(=O)([O-])[O-])/C=1)
+ferroheme <i>a</i>	C=CC4(\C6(/C=C8(C(/C)=C(CCC(=O)[O-])/C1(/N([Fe-2]35([N+]2(\C(/C(/C=O)=C(CCC(=O)[O-])\C(/C=1)=2)=C/C7(/N3C(\C=C(C(/C)=4)/[N+]\5=6)=C(C(/C)=7)/[C@@H](O)CC/C=C(C)/CC/C=C(C)/CCC=C(C)C))))8))))
+dTDP-4-dehydro-&beta;-L-rhamnose	CC1(\C(=O)NC(=O)N(\C=1)[C@H]3(C[C@H](O)[C@@H](COP(=O)([O-])OP(=O)([O-])O[C@H]2(O[C@@H](C)C(=O)[C@@H](O)[C@@H](O)2))O3))
+dTDP-4-dehydro-6-deoxy-&alpha;-D-glucopyranose	CC1(\C(=O)NC(N(\C=1)[C@H]3(C[C@H](O)[C@@H](COP(=O)([O-])OP(O[C@H]2(O[C@H](C)C(=O)[C@H](O)[C@@H](O)2))(=O)[O-])O3))=O)
+5-aminolevulinate	C(C(C[NH3+])=O)CC([O-])=O
+dTDP-&beta;-L-rhamnose	CC1(\C(=O)NC(=O)N(\C=1)[C@H]3(C[C@H](O)[C@@H](COP(=O)([O-])OP(=O)([O-])O[C@H]2(O[C@@H](C)[C@H](O)[C@@H](O)[C@@H](O)2))O3))
+2-succinylbenzoate	C1(\C=C/C(/C(=O)[O-])=C(\C=1)/C(=O)CCC(=O)[O-])
+menadione	CC1(\C(C2(/C=C\C=C/C(/C(\C=1)=O)=2))=O)
+a-dido-HEX-1:5|6:a	
+b-lido-HEX-1:5|6:a	
+2-dehydro-3-deoxy-D-gluconate 6-phosphate	C(=O)([O-])C(=O)C[C@H](O)[C@H](O)COP([O-])(=O)[O-]
+4-coumarate	C(=O)([O-])/C=C/C1(\C=C/C(/O)=C\C=1)
+(R,R)-2,3-butanediol	C[C@H]([C@H](O)C)O
+ampicillin	CC1(C)([C@H](C(=O)[O-])N2([C@H](S1)[C@@H](C(=O)2)NC(=O)[C@H]([NH3+])C3(\C=C/C=C\C=3)))
+preuroporphyrinogen	C(O)C4(\NC(/CC3(\NC(/CC2(\NC(/CC1(\N\C=C(CCC(=O)[O-])/C(\CC([O-])=O)=1))=C(CCC(=O)[O-])/C(\CC([O-])=O)=2))=C(CCC(=O)[O-])/C(\CC(=O)[O-])=3))=C(CCC(=O)[O-])/C(\CC(=O)[O-])=4)
+N6-acetyl-L-&beta;-lysine	CC(=O)NCCC[C@H]([NH3+])CC(=O)[O-]
+x-lido-HEX-1:5|6:a	
+1-deoxy-L-glycero-tetrulose 4-phosphate	CC(=O)[C@H](O)COP(=O)([O-])[O-]
+b-dido-HEX-1:5|6:a	
+2-methylpropanoyl phosphate	CC(C(=O)OP([O-])([O-])=O)C
+a-lido-HEX-1:5|6:a	
+tetrahydrotyrosine	C([O-])(=O)C(N)CC1(CCC(O)\C=C/1)
+acetyl phosphate	CC(OP([O-])(=O)[O-])=O
+CMP	C(OP(=O)([O-])[O-])[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O)
+UMP	C(OP(=O)([O-])[O-])[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O)
+fructoseglycine-6-phosphate	
+glycolaldehyde	C(O)C=O
+x-HEX-1:5	
+(2E)-2-hydroxypenta-2,4-dienoate	C=C/C=C(C([O-])=O)/O
+salicylaldehyde	C1(\C=C/C(/O)=C(\C=1)/C=O)
+a-HEX-1:5|6:a	
+3,6-diaminoacridine	C2(\C3(\C=C1(\C=C/C(/N)=C\C/1=N\C(/C=C(\C=2)/N)=3)))
+hydrogen peroxide	OO
+(2<i>E</i>,6<i>E</i>)-farnesal	CC(C)=CCCC(\C)=C/CCC(\C)=C/C=O
+x-HEX-1:5|6:a	
+(2Z)-2-hydroxypenta-2,4-dienoate	C=C\C=C(C([O-])=O)/O
+taurine	C(S(=O)(=O)[O-])C[NH3+]
+4-oxo-2-pentenal	CC(/C=C/C=O)=O
+b-HEX-1:5	
+D-kanosamine 6-phosphate	C(OP([O-])([O-])=O)[C@H]1(OC(O)[C@H](O)[C@@H]([NH3+])[C@H](O)1)
+L-cysteate	C([C@H]([NH3+])C(=O)[O-])S(=O)(=O)[O-]
+b-HEX-1:5|6:a	
+L-cysteinylglycine	C(C([O-])=O)NC([C@H](CS)[NH3+])=O
+aminoacetone	CC(C[NH3+])=O
+a-HEX-1:5	
+<i>S</i>-acetyldihydrolipoamide	CC(SC(CCS)CCCCC(N)=O)=O
+<i>keto</i>-D-psicose	C(O)C(=O)[C@H](O)[C@H](O)[C@H](O)CO
+4-imidazolone-5-propanoate	C(CCC1(C(=O)\N=C/N1))([O-])=O
+&beta;-D-ribulofuranose	C(O)[C@]1(O)([C@H](O)[C@H](O)CO1)
+&alpha;-D-ribulofuranose	C(O)[C@@]1(O)([C@H](O)[C@H](O)CO1)
+catechol	C1(\C=C/C(/O)=C(\C=1)/O)
+<i>N</i>-acetyl-D-galactosamine 6-phosphate	CC(=O)N[C@H]1(C(O)O[C@H](COP(=O)([O-])[O-])[C@H](O)[C@H](O)1)
+precorrin-2	C[C@]1(CC(=O)[O-])([C@@H](C3(\[NH2+]C\1=C/C2([C@@H](CCC(=O)[O-])[C@](C(\N=2)=C\C5(\NC(/CC4(\NC(/C=3)=C(CC(=O)[O-])/C(\CCC(=O)[O-])=4))=C(CCC(=O)[O-])/C(\CC(=O)[O-])=5))(C)CC(=O)[O-])))CCC(=O)[O-])
+precorrin-1	C[C@]5(C1(\N=C(CC4(\NC(/CC3(\NC(/CC2(\NC(/C=1)=C(CC([O-])=O)/C(\CCC([O-])=O)=2))=C(CCC([O-])=O)/C(\CC(=O)[O-])=3))=C(CCC([O-])=O)/C(\CC([O-])=O)=4))/[C@H]5CCC(=O)[O-]))(CC([O-])=O)
+5-dehydro-4-deoxy-D-glucuronate	C(=O)[C@H](O)[C@@H](O)CC(=O)C(=O)[O-]
+(2<i>R</i>,3<i>S</i>)-3-isopropylmalate	CC(C)[C@H](C([O-])=O)[C@H](C([O-])=O)O
+<i>keto</i>-D-ribulose	C(O)[C@@H](O)[C@@H](O)C(=O)CO
+(3,4-dihydroxyphenyl)acetate	C([O-])(=O)CC1(\C=C/C(/O)=C(\C=1)/O)
+D-tagaturonate	C(O)C(=O)[C@@H](O)[C@@H](O)[C@H](O)C(=O)[O-]
+hop-22(29)-ene	C=C(C)[C@H]5(CC[C@@]4(C)([C@@H](CC[C@]2(C)([C@H](CC[C@@H]1([C@@]3(C)(CCCC(C)(C)[C@H](CC[C@](C)12)3)))4))5))
+(7<i>R</i>,8<i>S</i>)-diaminononanoate	C[C@@H]([C@@H](CCCCCC([O-])=O)[NH3+])[NH3+]
+&beta;-D-ribopyranose	C1(O[C@H]([C@@H]([C@@H]([C@@H]1O)O)O)O)
+dihydro-4-hydroxyphenylpyruvate	C([O-])(=O)C(=O)CC1(\C=C/C(O)C\C=1)
+mesifurane (enol form)	CC1(/OC(\C)=C(C(/O)=1)/OC)
+a methyl group	C
+an alcohol group	C(O)([R1])([R3])[R2]
+(<i>S</i>)-malyl <i>N</i>-acetyl-&alpha;-D-glucosaminide	CC(N[C@H]1([C@@H](O[C@@H](CC([O-])=O)C([O-])=O)O[C@@H]([C@H]([C@@H]1O)O)CO))=O
+a carboxyl group	C(=O)[O-]
+&beta;-D-galactofuranose	C(O)[C@@H](O)[C@H]1([C@H](O)[C@@H](O)[C@@H](O1)O)
+an amino group	[C-3][NH3+]
+(1<i>R</i>,6<i>R</i>)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate	C1(\C=C([C@H]([C@H](O)\C=1)C(=O)[O-])\C(=O)CCC(=O)[O-])
+a phosphate group	[O-]P([O-])([O-])=O
+&alpha;-D-galactofuranose	C(O)[C@@H](O)[C@H]1([C@H](O)[C@@H](O)[C@H](O1)O)
+spermine	C(CCC[NH2+]CCC[NH3+])[NH2+]CCC[NH3+]
+4,5-secobiotin	C(C1(C(NC(N1)=O)CCCCCC(=O)[O-]))S
+&alpha;-D-quinovopyranose	C[C@@H]1([C@@H](O)[C@H](O)[C@@H](O)[C@@H](O)O1)
+ferrioxamine B	CC(=O)N2(O[Fe]1(ON(CCCCCNC(=O)CCC(=O)N(CCCCC[NH3+])O1)C(CCC(=O)NCCCCC2)=O))
+aminopropylcadaverine	C(CC[NH2+]CCCCC[NH3+])[NH3+]
+<i>S</i>-formylbacillithiol	C(SC=O)[C@H]([NH3+])C(=O)N[C@@H]1([C@@H](O)[C@H](O)[C@@H](CO)O[C@H](O[C@@H](CC([O-])=O)C(=O)[O-])1)
+ferrichrome	CC1(N3(CCC[C@H]4(C(=O)NCC(=O)NCC(=O)NCC(=O)N[C@H]5(CCCN2(O[Fe-3]6([O+]=1)([O+]=C(C)2)(O3)([O+]=C(C)N(CCC[C@@H](C(=O)N4)NC(=O)5)O6))))))
+pulcherrimin	CC(C)CC2(/[N+]3(/O[Fe+]OC(/C(\CC(C)C)=[N+]1(C(/O[Fe+]O1)=2))=3))
+putrescine	C([NH3+])CCC[NH3+]
+<i>O</i>-[-2-acetamido-3-<i>O</i>-(D-1-carboxyethyl)-2-deoxy-beta-D-glucopyranosyl]-2-deoxy-D-glucose	C[C@@H](O[C@@H]1([C@@H](NC(=O)C)[C@@H](O[C@H](CO)[C@H]1O)O[C@@H]2([C@@H](CO)OC(O)[C@H](NC(C)=O)[C@@H](O)2)))C(=O)[O-]
+a hydroxyl group	[OH-]
+&alpha;-D-rhamnopyranose	C[C@@H]1([C@H]([C@@H]([C@@H]([C@H](O1)O)O)O)O)
+spermidine	C([NH3+])CC[NH2+]CCCC[NH3+]
+coproporphyrinogen III	CC2(\C(/CCC([O-])=O)=C1(CC5(\NC(/CC4(\NC(/CC3(\NC(/CC(\N1)=2)=C(C)/C(\CCC([O-])=O)=3))=C(CCC([O-])=O)/C(\C)=4))=C(CCC(=O)[O-])/C(\C)=5)))
+&alpha;-D-galactose 1-phosphate	C(O)[C@H]1(O[C@H](OP(=O)([O-])[O-])[C@H](O)[C@@H](O)[C@@H](O)1)
+&beta;-D-rhamnopyranose	C[C@@H]1([C@H]([C@@H]([C@@H]([C@@H](O1)O)O)O)O)
+carbamate	C(=O)([O-])N
+2-(formamido)-N<sup>1</sup>-(5-phospho-&beta;-D-ribosyl)acetamidine	C(NC=O)C(N[C@H]1([C@H](O)[C@H](O)[C@@H](COP([O-])(=O)[O-])O1))=[NH2+]
+an imino group	[C-2]=[NH2+]
+&beta;-D-fructofuranose	C(O)[C@H]1(O[C@](O)(CO)[C@H]([C@@H]1O)O)
+a pyrophosphate group	[O-]P(OP(=O)([O-])O)(=O)[O-]
+prephenate	C(=O)([O-])C(=O)C[C@]1(C(=O)[O-])(\C=C/[C@@H](O)\C=C/1)
+L-rhamnulose 1-phosphate	C[C@@H]([C@@H]([C@H](C(COP([O-])(=O)[O-])=O)O)O)O
+&alpha;-D-fructofuranose	C(O)[C@H]1(O[C@@](O)(CO)[C@H]([C@@H]1O)O)
+agmatine	C(CCC[NH3+])NC(N)=[NH2+]
+4-amino-4-deoxychorismate	C=C(C(=O)[O-])O[C@H]1([C@H]([NH3+])\C=C/C(/C([O-])=O)=C\1)
+a carbonyl group	C(=O)([R1])[R1]
+<i>keto</i>-D-fructose	C(O)C(=O)[C@@H](O)[C@H](O)[C@H](O)CO
+&beta;-L-galactose 1-phosphate	C(O)[C@H]1([C@@H](O)[C@@H](O)[C@H](O)[C@@H](OP([O-])([O-])=O)O1)
+<i>meso</i>-tartrate	C([C@H]([C@H](C([O-])=O)O)O)([O-])=O
+a thiol group	[C-3]S
+&beta;-D-glucopyranose	C([C@@H]1([C@H]([C@@H]([C@H](C(O1)O)O)O)O))O
+&alpha;-D-glucopyranose	C([C@@H]1([C@H]([C@@H]([C@H](C(O1)O)O)O)O))O
+(<i>R</i>)-2,3-dihydroxy-3-methylpentanoate	CC[C@@](C)(O)[C@H](C([O-])=O)O
+benzoate	C(C1(\C=C/C=C\C=1))([O-])=O
+UDP-<i>N</i>-acetyl-&alpha;-D-muramate	C[C@@H](O[C@@H]3([C@@H](NC(=O)C)[C@@H](OP([O-])(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])=O)O[C@H](CO)[C@@H](O)3))C(=O)[O-]
+UDP-&alpha;-D-glucuronate	C(OP(=O)([O-])OP(O[C@H]1(O[C@H](C([O-])=O)[C@@H](O)[C@H](O)[C@@H](O)1))(=O)[O-])[C@@H]3([C@H]([C@H]([C@H](N2(\C=C/C(=O)NC2=O))O3)O)O)
+histidinal	C1(\N\C=N/C(\C[C@@H](C=O)[NH3+])=1)
+4-aminobenzoate	C(=O)([O-])C1(\C=C/C(/N)=C\C=1)
+UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanine	C[C@H](NC([C@H](O[C@@H]3([C@@H](NC(=O)C)[C@@H](OP([O-])(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])=O)O[C@H](CO)[C@@H](O)3))C)=O)C([O-])=O
+UDP-<i>N</i>-acetyl-&alpha;-D-mannosamine	CC(=O)N[C@H]3([C@@H](O)[C@H](O)[C@@H](CO)O[C@H](OP(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])(=O)[O-])3)
+dethiobiotin	C[C@@H]1(NC(=O)N[C@@H]1CCCCCC(=O)[O-])
+UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-D-glutamate	C[C@H](NC([C@H](O[C@@H]3([C@@H](NC(=O)C)[C@@H](OP([O-])(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])=O)O[C@H](CO)[C@@H](O)3))C)=O)C(N[C@H](CCC(=O)[O-])C(=O)[O-])=O
+UDP-<i>N</i>-acetyl-&alpha;-D-glucosamine	CC(=O)N[C@H]3([C@@H](OP(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])(=O)[O-])O[C@@H]([C@H]([C@@H]3O)O)CO)
+<i>S</i>-(2-succinyl)-L-cysteine	C(SC(CC(=O)[O-])C(=O)[O-])[C@H]([NH3+])C(=O)[O-]
+(<i>S</i>)-(+)-allantoin	C(=O)(N)N[C@H]1(NC(=O)NC(=O)1)
+UDP-<i>N</i>-acetyl-&alpha;-D-glucosamine-enolpyruvate	C=C(O[C@@H]3([C@@H](NC(=O)C)[C@@H](OP([O-])(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])=O)O[C@H](CO)[C@@H](O)3))C(=O)[O-]
+UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysine	C[C@H](NC([C@H](O[C@@H]3([C@@H](NC(=O)C)[C@@H](OP([O-])(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])=O)O[C@H](CO)[C@@H](O)3))C)=O)C(N[C@H](CCC(=O)N[C@@H](CCCC[NH3+])C([O-])=O)C(=O)[O-])=O
+<i>N</i>-acetyl-D-muramate 6-phosphate	C[C@@H](O[C@@H]1([C@H](C(O[C@@H]([C@H]1O)COP([O-])(=O)[O-])O)NC(=O)C))C([O-])=O
+&alpha;-L-fucopyranose	C[C@@H]1(O[C@H]([C@H]([C@@H]([C@@H]1O)O)O)O)
+5-(methylsulfanyl)-2,3-dioxopentyl 1-phosphate	CSCCC(=O)C(=O)COP([O-])(=O)[O-]
+&beta;-L-fucopyranose	C[C@@H]1(O[C@@H]([C@H]([C@@H]([C@@H]1O)O)O)O)
+<i>N</i>-acetyl-L-glutamate 5-semialdehyde	CC(=O)N[C@H](C([O-])=O)CCC=O
+&alpha;-L-ribulofuranose	C(O)[C@]1(O)([C@@H](O)[C@@H](O)CO1)
+(2Z,4Z)-2-chloro-5-hydroxyhexa-2,4-dienedioate	C(C(\Cl)=C\C=C(C(=O)[O-])/O)(=O)[O-]
+&beta;-L-ribulofuranose	C(O)[C@@]1(O)([C@@H](O)[C@@H](O)CO1)
+uridine 2'3'-cyclic monophosphate	C(O)[C@H]2(O[C@@H](N1(\C=C/C(=O)NC1=O))[C@@H]3(OP(=O)([O-])O[C@H]23))
+2-iminoacetate	C(=O)([O-])C=N
+carbon monoxide	[C-]#[O+]
+&alpha;-L-arabinofuranose	C(O)[C@H]1([C@H](O)[C@@H](O)[C@H](O)O1)
+urocanate	C1(\N\C=N/C(\C=C\C([O-])=O)=1)
+&beta;-L-arabinofuranose	C(O)[C@H]1([C@H](O)[C@@H](O)[C@@H](O)O1)
+&beta;-L-rhamnopyranose	C[C@@H]1(O[C@@H]([C@@H]([C@@H]([C@H]1O)O)O)O)
+D-alanyl-D-alanine	C[C@@H]([NH3+])C(=O)N[C@H](C)C([O-])=O
+<i>N</i><sup>2</sup>-formyl-<i>N</i><sup>1</sup>-(5-phospho-&beta;-D-ribosyl)glycinamide	C(NC=O)C(=O)N[C@H]1([C@H](O)[C@H](O)[C@@H](COP([O-])(=O)[O-])O1)
+&alpha;-L-rhamnopyranose	C[C@H]1([C@@H]([C@H]([C@H]([C@@H](O1)O)O)O)O)
+7,8-dihydropteroate	C(NC1(\C=C/C(/C(=O)[O-])=C\C=1))C2(CNC3(/N=C(N)\NC(=O)C(/N=2)=3))
+(7,8-dihydropterin-6-yl)methyl diphosphate	C1(C(/COP(=O)([O-])OP(=O)([O-])[O-])=N\C2(/C(=O)NC(/N)=N/C(\N1)=2))
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(C(/N)=C(C(=O)[O-])/N=C\1))[C@H](O)[C@H](O)2)
+5,6-dimethylbenzimidazole	CC1(\C(/C)=C/C2(/N\C=N/C(\C=1)=2))
+molybdopterin adenine dinucleotide	C(OP(=O)([O-])OP(OC[C@H]2(O[C@H]1(NC3(/N=C(N)\NC(=O)C(/N[C@H]1C(\S)=C2\[S-])=3))))(=O)[O-])[C@H]6(O[C@@H](N4(C5(\C(\N=C/4)=C(N)/N=C\N=5)))[C@H](O)[C@H](O)6)
+cyclic pyranopterin phosphate	C1(OP([O-])(=O)OC2(C1O[C@@H]3([C@H](C(=O)2)NC4(\C(=O)NC(/N)=N/C(\N3)=4))))
+3-hydroxypropanoate	C(CO)C([O-])=O
+7,8-dihydroneopterin 3'-phosphate	C1(NC2(/N=C(N)\NC(=O)C(/N=C1/[C@H](O)[C@H](O)COP(=O)([O-])[O-])=2))
+6-(hydroxymethyl)-7,8-dihydropterin	C(O)C1(\CNC2(/N=C(N)\NC(=O)C(/N=1)=2))
+guanine	C1(\NC2(/N=C(N)\NC(=O)C(/N=1)=2))
+5'-phosphoguanylyl(3'&rarr;5')guanosine	C(OP(O[C@H]3([C@@H](O)[C@H](N1(\C=N/C2(C(=O)NC(/N)=N/C1=2)))O[C@H](COP(=O)([O-])[O-])3))(=O)[O-])[C@H]6(O[C@@H](N4(\C=N/C5(C(=O)NC(/N)=N/C4=5)))[C@H](O)[C@H](O)6)
+7,8-dihydroneopterin 3'-triphosphate	C1(NC2(/N=C(N)\NC(=O)C(/N=C1/[C@H](O)[C@H](O)COP([O-])(=O)OP([O-])(=O)OP([O-])(=O)[O-])=2))
+adenine	C2(N)(\N=C/N=C1(C(/N=C\N1)=2))
+formamide	C(N)=O
+(<i>S</i>)-2,3,4,5-tetrahydrodipicolinate	C1(CC(/C([O-])=O)=N\[C@@H](C1)C([O-])=O)
+UDP-2,4,6-trideoxy-2,4-diacetamido glucose	
+(<i>S</i>)-3-hydroxybutanoyl-CoA	C[C@@H](CC(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O)O
+(<i>S</i>)-1-pyrroline-5-carboxylate	C1(\CC[C@H](\N=1)C(=O)[O-])
+(<i>S</i>)-methylmalonate-semialdehyde	C[C@@H](C=O)C(=O)[O-]
+<i>N<sup>5</sup></i>-carboxyaminoimidazole ribonucleotide	C1(\N=C/N(C(/NC([O-])=O)=1)[C@@H]2(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@@H](O)2))
+L-alanyl-&gamma;-D-glutamyl-<i>meso</i>-diaminopimelate	C[C@H]([NH3+])C(=O)N[C@H](CCC(=O)N[C@H](C([O-])=O)CCC[C@@H]([NH3+])C(=O)[O-])C(=O)[O-]
+2-phospho-D-glycerate	C(=O)([O-])[C@H](OP(=O)([O-])[O-])CO
+(<i>R</i>)-methylmalonate-semialdehyde	C[C@H](C=O)C(=O)[O-]
+(2Z,4Z)-2-hydroxyhepta-2,4-dienedioate	C([O-])(=O)C\C=C/C=C(C(=O)[O-])\O
+3-phospho-D-glycerate	C(OP(=O)([O-])[O-])[C@@H](O)C(=O)[O-]
+&beta;-nicotinamide D-ribonucleotide	C(OP(=O)([O-])[O-])[C@@H]1([C@@H](O)[C@@H](O)[C@@H](O1)[N+]2(\C=C/C=C(/C=2)/C(=O)N))
+cyclohex-2-enone	C1(CCC(\C=C/1)=O)
+<i>keto</i>-L-rhamnulose	C[C@H](O)[C@H](O)[C@@H](O)C(=O)CO
+adenosine 3',5'-bisphosphate	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](OP([O-])(=O)[O-])3)
+carboxyphosphate	C(=O)([O-])OP([O-])(=O)O
+(<i>Z,Z</i>)-biliverdin-IX &alpha;	C=CC1(\C(\NC(C(/C)=1)=O)=C\C4(\NC(/C=C3(C(/CCC(=O)[O-])=C(C)/C(\C=C2(C(/C)=C(C=C)/C(=O)N2))=N\3))=C(CCC(=O)[O-])/C(\C)=4))
+<i>(R)</i>-lactic acid	C[C@@H](O)C(O)=O
+(<i>Z,Z</i>)-bilirubin-IX &alpha;	C=CC1(\C(\NC(C(/C)=1)=O)=C\C4(\NC(/CC3(\NC(/C=C2(C(/C)=C(C=C)/C(=O)N2))=C(C)/C(\CCC([O-])=O)=3))=C(CCC([O-])=O)/C(\C)=4))
+(2S,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran	C[C@]1(O)(OC[C@H](O)[C@@](O)(O)1)
+<i>(S)</i>-lactic acid	C[C@H](O)C(O)=O
+oleate	CCCCCCCC\C=C/CCCCCCCC([O-])=O
+L-canavanine	C(C[C@H]([NH3+])C(=O)[O-])ONC(N)=[NH2+]
+7-carboxy-7-deazaguanine	C12(=C(C(/C([O-])=O)=C\N1)C(=O)NC(/N)=N/2)
+D-<i>myo</i>-inositol (1,2,4,5,6)-pentakisphosphate	[C@H]1(O)([C@@H](OP([O-])(=O)[O-])[C@H](OP([O-])([O-])=O)[C@@H](OP([O-])([O-])=O)[C@H](OP([O-])([O-])=O)[C@H](OP([O-])(=O)[O-])1)
+tartronate semialdehyde	C(=O)C(O)C(=O)[O-]
+5-amino-6-(D-ribitylamino)uracil	C(NC1(NC(NC(=O)C(N)=1)=O))[C@H](O)[C@H](O)[C@H](O)CO
+<i>S</i>-methyl-5'-thioadenosine	CSC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+5-amino-6-(5-phospho-D-ribitylamino)uracil	C(NC1(NC(NC(=O)C(N)=1)=O))[C@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-]
+AMP	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(C(/N)=C(C(=O)NC(C([O-])=O)CC([O-])=O)/N=C\1))[C@H](O)[C@H](O)2)
+3-dehydroshikimate	C([O-])(=O)C1(\C[C@@H](O)[C@H](O)C(=O)/C=1)
+isobutanoate	CC(C)C([O-])=O
+thetin	C(C(=O)[O-])[S+](C)C
+D-<i>threo</i>-isocitrate	C(=O)([C@@H](CC([O-])=O)[C@@H](O)C([O-])=O)[O-]
+menaquinol-<i>7</i>	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(/C(\C)=C(C2(/C=C\C=C/C(/C(/O)=1)=2))/O)
+D-<i>erythro</i>-1-(imidazol-4-yl)-glycerol 3-phosphate	C1(\N\C=N/C(\[C@@H]([C@H](O)COP(=O)([O-])[O-])O)=1)
+(<i>R</i>)-lactate	C[C@H](C([O-])=O)O
+(S)-naproxen methyl ester	
+(<i>S</i>)-benzoin	C2(\C=C/C(/[C@@H](C(=O)C1(\C=C/C=C\C=1))O)=C\C=2)
+(<i>S</i>)-lactate	C[C@@H](C([O-])=O)O
+4'-phosphopantetheine group	CC([C@@H](O)C(=O)NCCC(NCCS)=O)(C)COP([O-])(=O)[O-]
+<i>N</i>-acetyl-&beta;-D-glucosamine-1,6-anhydro-<i>N</i>-acetyl-&beta;-D-muramate	C[C@H](C([O-])=O)O[C@@H]2([C@@H](NC(=O)C)[C@@H]1(OC[C@@H](O1)[C@H]2O[C@@H]3(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](NC(C)=O)3)))
+a <i>holo</i> citrate-lyase	CC(C)(COP([O-])(=O)OP([O-])(=O)OC[C@@H]2([C@@H](O)[C@@H](O[C@@H]1([C@H](O)[C@H](O)[C@@H](COP(=O)([O-])OC[C@H](N[a [citrate-lyase]])C(=O)[a [citrate-lyase]])O1))[C@@H](O2)N3(\C=N/C4(C(/N)=N\C=N/C3=4))))[C@@H](O)C(=O)NCCC(=O)NCCS
+NAD stem group	C1(C(C(C(O1)COP(OP([O-])(=O)OCC4(C(C(O)C(N2(\C=N/C3(C(/N)=N\C=N/C2=3)))O4)O))(=O)[O-])O)O)
+vanillate	COC1(\C(\O)=C/C=C(/C=1)/C(=O)[O-])
+1-piperideine 6-carboxylate	C([C@@H]1(CCC\C=N/1))([O-])=O
+a coenzyme-A group	CC(C)(COP(OP([O-])(OC[C@@H]1([C@@H](OP([O-])([O-])=O)[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))=O)([O-])=O)[C@@H](O)C(=O)NCCC(=O)NCCS
+a linoleate group	CCCCC\C=C/C\C=C/CCCCCCCC=O
+2,3-dihydroxybenzoate	C(C1(\C(\O)=C(\C=C/C=1)\O))([O-])=O
+(R)-4'-phosphopantothenoyl-cytidylate	CC(C)(COP(=O)([O-])[O-])[C@@H](O)C(=O)NCCC(=O)OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O))(=O)[O-]
+2'-deoxyguanosine	C(O)[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))C[C@H](O)3)
+sodium chloride	
+D-pinitol	CO[C@H]1([C@@H]([C@H]([C@H]([C@@H]([C@@H]1O)O)O)O)O)
+2,6-diamino-4-hydroxy-5-(<i>N</i>-methyl)formamidopyrimidine	CN(C=O)C1(\C(\O)=N/C(\N)=N\C(/N)=1)
+adenosine	C(O)[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+cytidine	C(O)[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C(=O)1))O2)O)O)
+uridine	C(O)[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O)
+(2R,4S)-2-methyl-2,4-dihydroxydihydrofuran-3-one	C[C@@]1(O)(OC[C@H](O)C(=O)1)
+thymidine	CC1(\C(=O)NC(N(\C=1)[C@H]2(C[C@H](O)[C@@H](CO)O2))=O)
+13-methyltetradecanoate	CC(C)CCCCCCCCCCCC(=O)[O-]
+(glycyl)adenylate	C(OP(OC(=O)CN)(=O)[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+anthranilate	C(C1(\C(\N)=C/C=C\C=1))(=O)[O-]
+2'-deoxyuridine	C(O)[C@@H]2([C@H](C[C@H](N1(\C=C/C(=O)NC1=O))O2)O)
+5-methyltetrahydropteroyl tri-L-glutamate	CN1([C@H](CNC2(/N=C(N)\NC(C\1=2)=O))CNC3(\C=C/C(/C(N[C@H](C(=O)[O-])CCC(N[C@H](C(=O)[O-])CCC(N[C@H](C(=O)[O-])CCC([O-])=O)=O)=O)=O)=C\C=3))
+(L-threonyl)adenylate	C[C@@H](O)[C@H]([NH3+])C(=O)OP(OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))(=O)[O-]
+succinate semialdehyde	C(C=O)CC(=O)[O-]
+2'-deoxyadenosine	C(O)[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))C[C@H](O)3)
+14-methylpentadecanoate	CC(C)CCCCCCCCCCCCC([O-])=O
+(D-alanyl)adenylate	C[C@@H]([NH3+])C(OP(OC[C@@H]3([C@H]([C@H]([C@H](N1(C2(\N=C/N=C(C(\N=C/1)=2)/N)))O3)O)O))([O-])=O)=O
+5-aminopentanoate	C(CC[NH3+])CC(=O)[O-]
+xanthosine	C(O)[C@H]3(O[C@@H](N1(C2(/NC(=O)NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+a <i>holo</i> malonate-decarboxylase	CC(C)(COP([O-])(=O)OP([O-])(=O)OC[C@@H]2([C@@H](O)[C@@H](O[C@@H]1([C@H](O)[C@H](O)[C@@H](COP(=O)([O-])OC[C@H](N[[an apo malonate decarboxylase acyl-carrier protein]])C(=O)[[an apo malonate decarboxylase acyl-carrier protein]])O1))[C@@H](O2)N3(\C=N/C4(C(/N)=N\C=N/C3=4))))[C@@H](O)C(=O)NCCC(=O)NCCS
+guanosine	C(O)[C@H]3(O[C@@H](N1(\C=N/C2(C(=O)NC(/N)=N/C1=2)))[C@H](O)[C@H](O)3)
+orotidine 5'-phosphate	C(OP(=O)([O-])[O-])[C@H]1(O[C@H]([C@H](O)[C@H](O)1)N2(C(/C(=O)[O-])=C/C(=O)NC(=O)2))
+4-methyl-2-oxopentanoate	CC(C)CC(C([O-])=O)=O
+1D-<i>myo</i>-inositol 1-monophosphate	[C@@H]1(O)([C@H](O)[C@@H](O)[C@H](OP([O-])(=O)[O-])[C@H](O)[C@H](O)1)
+dTDP-&alpha;-D-glucose	CC1(\C(=O)NC(N(\C=1)[C@H]3(C[C@H](O)[C@@H](COP([O-])(=O)OP([O-])(=O)O[C@H]2(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)2))O3))=O)
+2-protocatechuoylphloroglucinolcarboxylate	C(C2(/C(/OC(C1(\C=C/C(/O)=C(/C=1)/O))=O)=C\C(\O)=C/C(/O)=2))([O-])=O
+2'-deoxycytidine	C(O)[C@@H]2([C@H](C[C@H](N1(\C=C/C(/N)=N\C(=O)1))O2)O)
+CDP-&alpha;-D-glucose	C([C@H]3(O[C@H](OP(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O))(=O)[O-])([O-])=O)[C@@H]([C@H]([C@@H]3O)O)O))O
+(2Z,4E)-2-hydroxy-6-oxohexa-2,4-dienoate	C(=O)/C=C/C=C(C(=O)[O-])\O
+inosine	C(O)[C@H]3(O[C@@H](N1(C2(\N=C/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+1,4-dihydroxy-2-naphthoate	C([O-])(=O)C1(/C=C(C2(/C=C\C=C/C(/C(/O)=1)=2))/O)
+cyclic di-3',5'-adenylate	C1([C@@H]7([C@@H](OP([O-])(=O)OC[C@@H]4([C@@H](OP([O-])(=O)O1)[C@@H](O)[C@H](N2(C3(\N=C/N=C(C(\N=C/2)=3)/N)))O4))[C@@H](O)[C@H](N5(C6(\N=C/N=C(C(\N=C/5)=6)/N)))O7))
+crotonobetaine	C[N+](C/C=C/C([O-])=O)(C)C
+cyclic di-3',5'-guanylate	C1([C@@H]7([C@@H](OP([O-])(=O)OC[C@@H]4([C@@H](OP([O-])(=O)O1)[C@@H](O)[C@H](N2(C3(\N=C(N)/NC(=O)C(\N=C/2)=3)))O4))[C@@H](O)[C@H](N5(C6(\N=C(N)/NC(=O)C(\N=C/5)=6)))O7))
+methyl caproate	
+(R)-malate	C(=O)([O-])C[C@@H](O)C([O-])=O
+<i>N</i>-acetyl-&alpha;-D-glucosamine 1-phosphate	CC(=O)N[C@@H]1([C@@H](O)[C@H](O)[C@@H](CO)O[C@H](OP([O-])(=O)[O-])1)
+(<i>S</i>)-malate	C(=O)([O-])C[C@H](O)C([O-])=O
+6,7-dimethyl-8-(1-D-ribityl)lumazine	CC1(\N=C2(C(/N(C[C@H](O)[C@H](O)[C@H](O)CO)C(/C)=1)=N\C(=O)[N-]C(=O)2))
+D-sorbitol	C([C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O
+fumarate	C(/C([O-])=O)=C\C(=O)[O-]
+L-iditol	C([C@@H]([C@H]([C@@H]([C@@H](O)CO)O)O)O)O
+L-aspartate	C(C(=O)[O-])[C@H]([NH3+])C(=O)[O-]
+indole	C1(\C=C/C2(N\C=C/C(\C=1)=2))
+galactitol	C([C@@H]([C@H]([C@H]([C@H](O)CO)O)O)O)O
+oxaloacetate	C(C([O-])=O)C(=O)C([O-])=O
+D-carnitine	C[N+](C[C@@H](O)CC(=O)[O-])(C)C
+a peptidoglycan with D,D cross-links (<I>meso</I>-diaminopimelate containing)	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(OP([O-])(=O)O[C@@H]8([C@H](NC(=O)C)[C@@H](O[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](C(=O)[O-])CCC(=O)N[C@@H](CCC[C@@H]([NH3+])C(=O)[O-])C(N[C@H](C)C(=O)N[C@H](C)C([O-])=O)=O)[C@H](O[C@@H]7(O[C@H](CO)[C@@H](O[C@@H]6([C@H](NC(=O)C)[C@@H](O[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](C(=O)[O-])CCC(=O)N[C@@H](CCC[C@@H]([NH3+])C(=O)[O-])C(N[C@H](C)C(=O)N[C@@H](C(=O)[O-])CCC[C@@H](C(N[C@H](C)C(=O)N[C@H](C)C([O-])=O)=O)NC(=O)CC[C@H](C(=O)[O-])NC(=O)[C@H](C)NC(=O)[C@@H](C)O[C@H]4([C@H](O[C@@H]3(O[C@H](CO)[C@@H](O[C@@H]2([C@H](NC(=O)C)[C@@H](O[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](C(=O)[O-])CCC(=O)N[C@@H](CCC[C@@H]([NH3+])C(=O)[O-])C(N[C@H](C)C(=O)N[C@H](C)C([O-])=O)=O)[C@H](O[C@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](NC(=O)C)1))[C@@H](CO)O2))[C@H](O)[C@@H](NC(=O)C)3))[C@@H](CO)O[C@@H]([C@H](NC(=O)C)4)OP(OP(OC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CCC=C(C)C)([O-])=O)([O-])=O))=O)[C@H](O[C@@H]5(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](NC(=O)C)5))[C@@H](CO)O6))[C@H](O)[C@@H](NC(=O)C)7))[C@@H](CO)O8))([O-])=O
+D-mannitol	C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O
+enol-oxaloacetate	C([O-])(=O)C(\O)=C\C(=O)[O-]
+&alpha;-L-xylopyranose	[C@H]1(O)(OC[C@H](O)[C@@H](O)[C@H](O)1)
+6-aminopenicillanate	CC1(C)(S[C@@H]2([C@H]([NH3+])C(=O)N([C@@H](C([O-])=O)1)2))
+3-oxododecanoyl-CoA	CCCCCCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+cytosine	C1(\NC(=O)/N=C(\C=1)/N)
+3-oxohexanoyl-CoA	CCCC(CC(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O)=O
+UTP	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(\C=C/C(=O)NC1=O))[C@H](O)[C@H](O)2)
+3-oxodecanoyl-CoA	CCCCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+dTTP	CC1(\C(=O)NC(=O)N(\C=1)[C@H]2(C[C@H](O)[C@@H](COP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])O2))
+3-oxooctanoyl-CoA	CCCCCC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+CDP	C(OP(OP([O-])([O-])=O)(=O)[O-])[C@@H]2([C@H]([C@H]([C@H](N1(C(/N=C(\C=C/1)/N)=O))O2)O)O)
+dUDP	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(\C=C/C(=O)NC1=O))C[C@H](O)2)
+propanoate	CCC(=O)[O-]
+<i>cis</i>-vaccenate	CCCCCC\C=C/CCCCCCCCCC(=O)[O-]
+dCDP	C(OP(OP([O-])([O-])=O)(=O)[O-])[C@@H]2([C@H](C[C@H](N1(C(/N=C(\C=C/1)/N)=O))O2)O)
+isoguanine	C1(\NC2(NC(/N=C(C(\N=1)=2)/N)=O))
+dipicolinate	C1(\C=C(C(=O)[O-])/N=C(\C=1)/C(=O)[O-])
+L-tryptophan	C1(\NC2(/C=C\C=C/C(/C(\C[C@H]([NH3+])C(=O)[O-])=1)=2))
+UDP	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O)
+adenosine 2',3'-cyclic monophosphate	C([C@@H]3([C@@H]4([C@H]([C@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))O3)OP(O4)([O-])=O)))O
+formylaminopyrimidine	CC1(\N=C/C(\CNC=O)=C(N)\N=1)
+L-methionine	CSCC[C@H]([NH3+])C([O-])=O
+dTDP	CC1(\C(=O)NC(=O)N(\C=1)[C@H]2(C[C@H](O)[C@@H](COP(=O)([O-])OP(=O)([O-])[O-])O2))
+IMP	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+dUMP	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(\C=C/C(=O)NC1=O))C[C@H](O)2)
+L-isoleucine	CC[C@H](C)[C@H]([NH3+])C(=O)[O-]
+dCMP	C(OP(=O)([O-])[O-])[C@@H]2([C@H](C[C@H](N1(\C=C/C(/N)=N\C(=O)1))O2)O)
+8-oxo-GMP	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(NC(=O)1)=2)))[C@H](O)[C@H](O)3)
+CTP	C(OP(OP(OP(=O)([O-])[O-])([O-])=O)(=O)[O-])[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O)
+L-valine	CC(C)[C@H]([NH3+])C([O-])=O
+uracil	C1(\NC(=O)NC(=O)\C=1)
+GMP	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+aminomethylpyrimidine	CC1(\N=C/C(\C[NH3+])=C(N)\N=1)
+L-phenylalanine	C([O-])(=O)[C@@H]([NH3+])CC1(\C=C/C=C\C=1)
+dTMP	CC1(\C(=O)NC(=O)N(\C=1)[C@H]2(C[C@H](O)[C@@H](COP(=O)([O-])[O-])O2))
+ADP	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+dUTP	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(\C=C/C(=O)NC1=O))C[C@H](O)2)
+L-alanine	C[C@H]([NH3+])C([O-])=O
+dCTP	C(OP(OP(=O)([O-])OP(=O)([O-])[O-])(=O)[O-])[C@@H]2([C@H](C[C@H](N1(C(/N=C(\C=C/1)/N)=O))O2)O)
+dIMP	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C/NC(=O)C(\N=C/1)=2)))C[C@H](O)3)
+4-(methylsulfanyl)-2-oxobutanoate	CSCCC(C([O-])=O)=O
+L-cysteine	C(S)[C@@H](C(=O)[O-])[NH3+]
+dGDP	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))C[C@H](O)3)
+L-proline	C1([NH2+][C@@H](CC1)C(=O)[O-])
+dADP	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))C[C@H](O)3)
+&beta;-D-galactopyranose	C(O)[C@H]1(O[C@@H](O)[C@H](O)[C@@H](O)[C@@H](O)1)
+L-leucine	CC(C)C[C@H]([NH3+])C([O-])=O
+iron(III) dicitrate	C1(C(O[Fe]234(OC(C(O)1CC(O2)[O-])[O-])(OC(C(O)(CC(O3)[O-])CC(O4)[O-])[O-]))[O-])
+guanosine 3'-monophosphate	C(O)[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](OP([O-])(=O)[O-])3)
+iron(III)-petrobactin	C2([NH2+]CCCNC(=O)C6(\C=C/C7(/O[Fe-3]135(OC(C(O1)(CC(NCCC2)=O)CC(NCCCC[NH2+]CCCNC(=O)C4(\C=C/C(/O3)=C(/C=4)/O5))=O)=O)(OC(/C=6)=7))))
+glycine	C([NH3+])C([O-])=O
+XMP	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(/NC(=O)NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+&alpha;-D-galactopyranose	C(O)[C@H]1(O[C@H](O)[C@H](O)[C@@H](O)[C@@H](O)1)
+rhodamine 6G	CCNC3(\C(/C)=C/C4(/C(C1(C(/C(=O)OCC)=C\C=C/C=1))=C2(C(/C=C(C(/C)=C/2)/NCC)=[O+]C(/C=3)=4))).[Cl-]
+8-oxo-dGDP	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(NC(=O)1)=2)))C[C@H](O)3)
+&beta;-L-galactopyranose	C([C@@H]1(O[C@@H]([C@H]([C@@H]([C@@H]1O)O)O)O))O
+GTP	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+&alpha;-L-galactopyranose	C([C@@H]1(O[C@H]([C@H]([C@@H]([C@@H]1O)O)O)O))O
+8-oxo-dGMP	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(NC(=O)1)=2)))C[C@H](O)3)
+dITP	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C/NC(=O)C(\N=C/1)=2)))C[C@H](O)3)
+ferulate	COC1(\C(\O)=C/C=C(/C=C/C([O-])=O)/C=1)
+dGMP	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))C[C@H](O)3)
+dAMP	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))C[C@H](O)3)
+guanosine 2',3'-cyclic monophosphate	C([C@H]4(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@@H]3(OP([O-])(=O)O[C@@H]34)))O
+XTP	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(/NC(=O)NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+8-oxo-GDP	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(NC(=O)1)=2)))[C@H](O)[C@H](O)3)
+C52-&alpha;-meroacyl-adenylate	CCCCCCCCCCCCCCCCCCC1(CC1CCCCCCCCCCC2(CC2CCCCCCCCCCCCCCCCCC(=O)OP(OC[C@H]5(O[C@@H](N3(C4(\C(\N=C/3)=C(N)/N=C\N=4)))[C@H](O)[C@H](O)5))(=O)[O-]))
+hypoxanthine	C1(\NC2(C(=O)N\C=N/C(\N=1)=2))
+(3<i>S</i>)-3-methyl-2-oxopentanoate	CC[C@H](C)C(=O)C([O-])=O
+8-oxo-GTP	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(NC(=O)1)=2)))[C@H](O)[C@H](O)3)
+(14<i>S</i>)-14-methylhexadecanoate	CC[C@H](C)CCCCCCCCCCCCC([O-])=O
+GDP	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+(12<i>S</i>)-12-methyltetradecanoate	CC[C@H](C)CCCCCCCCCCC(=O)[O-]
+dGTP	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))C[C@H](O)3)
+(<i>R</i>)-NADHX	C1(/N([C@H](O)CCC(/C(N)=O)=1)[C@@H]5(O[C@H](COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4))(=O)[O-])(=O)[O-])[C@@H](O)[C@@H](O)5))
+dATP	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))C[C@H](O)3)
+(<i>S</i>)-NADHX	C1(/N([C@@H](O)CCC(/C(N)=O)=1)[C@@H]5(O[C@H](COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4))(=O)[O-])(=O)[O-])[C@@H](O)[C@@H](O)5))
+NAD<sup>+</sup>	C5(/C=C\C(\C(=O)N)=C/[N+](/[C@@H]1(O[C@@H]([C@H]([C@H]1O)O)COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O[R])[C@H](O)4))(=O)[O-])(=O)[O-]))=5)
+NADP<sup>+</sup>	C5(/C=C\C(\C(=O)N)=C/[N+](/[C@@H]1(O[C@@H]([C@H]([C@H]1O)O)COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O[R])[C@H](O)4))(=O)[O-])(=O)[O-]))=5)
+[corrinoid adenosyltranferase]-cob(I)inamide	C[C@@H](O)CNC(=O)CC[C@]1(C)([C@@H](CC(=O)N)[C@@H]8([C@@]6(C)([C@@](C)(CC(N)=O)[C@H](CCC(N)=O)C7(\C(/C)=C4([C@@](C)(CC(N)=O)[C@H](CCC(N)=O)C5(\C=C2(C(C)(C)[C@H](CCC(N)=O)C3(\C(/C)=C1/N([Co-3]([N+]\2=3)([N+]4=5)[N+]\6=7)8)))))))).[a [corrinoid adenosyltransferase]]
+[(<i>R</i>)-lipoyl]adenylate	C1(SS[C@@H](C1)CCCCC(=O)OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4))(=O)[O-])
+[corrinoid adenosyltranferase]-cob(II)inamide	C[C@@H](O)CNC(=O)CC[C@]1(C)([C@@H](CC(=O)N)[C@@H]8([C@@]6(C)([C@@](C)(CC(N)=O)[C@H](CCC(N)=O)C7(\C(/C)=C4([C@@](C)(CC(N)=O)[C@H](CCC(N)=O)C5(\C=C2(C(C)(C)[C@H](CCC(N)=O)C3(\C(/C)=C1/N([Co-2]([N+]\2=3)([N+]4=5)[N+]\6=7)8)))))))).[a [corrinoid adenosyltransferase]]
+<i>N</i>-carbamoyl-2-oxoglycine	C([O-])(=O)C(=O)NC(=O)N
+O-ureido-L-homoserine	C(C[C@@H](C(=O)[O-])[NH3+])ONC(=O)N
+biotinyl-5'-adenylate	C(OP(OC(=O)CCCC[C@@H]1(SC[C@@H]2(NC(=O)N[C@H]12)))(=O)[O-])[C@H]5(O[C@@H](N3(C4(\C(\N=C/3)=C(N)/N=C\N=4)))[C@H](O)[C@H](O)5)
+(<i>S</i>)-3-hydroxy-isobutanoate	C[C@H](C([O-])=O)CO
+(<i>S</i>)-2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline	C([C@]1(O)(NC(=O)/N=C1/NC(N)=O))(=O)[O-]
+(<i>S</i>)-ureidoglycine	[C@H](NC(N)=O)([NH3+])C(=O)[O-]
+(2,3-dihydroxybenzoyl)adenylate	C(OP(OC(=O)C1(/C=C\C=C(C(\O)=1)\O))(=O)[O-])[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4)
+cob(I)alamin	CC%12(\C=C8(C(/N9([C@H]%11(O[C@H](CO)[C@@H](OP([O-])(=O)O[C@H](C)CNC(=O)CC[C@]1(C)([C@@H](CC(N)=O)[C@@H]%10([C@@]6(C)([C@@](C)(CC(N)=O)[C@H](CCC(=O)N)C7(\C(/C)=C4([C@](CC(=O)N)(C)[C@H](CCC(N)=O)C5(\C=C2(C(C)(C)[C@H](CCC(N)=O)C3(\C(/C)=C1/N([Co-4]([N+]\2=3)([N+]4=5)([N+]\6=7)[N+]/8=C/9)%10)))))))))[C@@H](O)%11)))=C\C(/C)=%12))
+(<i>S</i>)-ureidoglycolate	[C@@H](O)(C([O-])=O)NC(N)=O
+cob(I)yrinate <i>a,c</i>-diamide-[corrinoid adenosyltranferase]	CC3(\C8(/[C@@H](CCC([O-])=O)[C@](C)(C)C4(\[N+](\[Co-3]25([N+]7(/[C@]([C@@H]1([C@@H]([C@](CCC(=O)[O-])(C)C(\N12)=3)CC([O-])=O))(C)[C@@](C)(CC(N)=O)[C@H](CCC(=O)[O-])C(\C(/C)=C6([C@@](C)(CC(N)=O)[C@@H](C(\C=4)=[N+]56)CCC([O-])=O))=7)))=8))).[a [corrinoid adenosyltransferase]]
+adenosyl-cob(III)yrinate <i>a,c</i>-diamide	CC3(\C%11(/[C@@H](CCC([O-])=O)C(C)(C)C4(\[N+](\[Co-2]15([N+]7(/[C@@](C)([C@H]2([C@H](CC(=O)[O-])[C@](CCC(=O)[O-])(C)C(\N12)=3))[C@@](C)(CC(N)=O)[C@H](CCC([O-])=O)C(\C(/C)=C6([C@@](C)(CC(N)=O)[C@H](CCC([O-])=O)C(\C=4)=[N+]56))=7))(C[C@@H]8([C@H]([C@@H](O)[C@@H](O8)N9(\C=N/C%10(\C/9=N/C=N\C(/N)=%10)))O)))=%11)))
+<i>aldehydo</i>-D-galactose	C(=O)[C@@H]([C@H]([C@H]([C@@H](CO)O)O)O)O
+propan-1-ol	CCCO
+butan-1-ol	CCCCO
+ethanol	CCO
+methanol	CO
+2,4-dichlorobenzaldehyde	C(=O)C1(/C=C\C(\Cl)=C/C(/Cl)=1)
+monochlorobimane	CC1(\C(N2(N(C(/C)=1)C(/CCl)=C(C)/C2=O))=O)
+pyridoxine 5'-phosphate	CC1(\C(\O)=C(C(/COP([O-])(=O)[O-])=C\N=1)\CO)
+pyridoxamine	CC1(\C(\O)=C(C(/CO)=C\N=1)\C[NH3+])
+riboflavin	CC3(\C=C2(C(/N(C[C@H](O)[C@H](O)[C@H](O)CO)C1(\C(\C(=O)[N-]C(=O)/N=1)=N/2))=C\C(/C)=3))
+pyridoxamine 5'-phosphate	CC1(\C(\O)=C(C(/COP([O-])([O-])=O)=C\N=1)\C[NH3+])
+pyridoxal	CC1(/N=C\C(\CO)=C(C(/O)=1)\C=O)
+pyridoxine	CC1(\C(\O)=C(C(/CO)=C\N=1)\CO)
+<i>N</i>-acetyl-&beta;-D-glucosamine	CC(=O)N[C@H]1([C@H](O)O[C@H](CO)[C@@H](O)[C@H](O)1)
+&alpha;-D-fucopyranose	C[C@@H]1([C@H](O)[C@H](O)[C@@H](O)[C@@H](O)O1)
+L-aspartyl-4-phosphate	C([C@H]([NH3+])C(=O)[O-])C(=O)OP([O-])(=O)[O-]
+2-hydroxy-5-oxoproline	C(=O)([C@@]1(O)(NC(CC1)=O))[O-]
+N<sup>6</sup>-(D-glucosyl)-L-lysine	C(O)[C@H]1(O[C@@H](O)[C@H]([NH2+]CCCC[C@H]([NH3+])C(=O)[O-])[C@@H](O)[C@H](O)1)
+FADH<SUB>2</SUB>	CC6(\C=C1(C(/N(C2(/NC(NC(=O)C(\N1)=2)=O))C[C@H](O)[C@H](O)[C@H](O)COP(OP([O-])(OC[C@@H]5([C@@H](O)[C@@H](O)[C@H](N3(\C=N/C4(C(/N)=N\C=N/C3=4)))O5))=O)([O-])=O)=C\C(/C)=6))
+<i>S</i>-adenosyl-L-homocysteine	C(SC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))C[C@@H](C(=O)[O-])[NH3+]
+L-djenkolate	C([C@@H](C(=O)[O-])[NH3+])SCSC[C@@H](C(=O)[O-])[NH3+]
+FMN	CC2(\C(/C)=C/C3(/N(C[C@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-])C1(\C(\C(=O)[N-]C(=O)/N=1)=N/C(\C=2)=3)))
+<i>S</i>-ribosyl-L-homocysteine	C(SC[C@H]1(OC(O)[C@H](O)[C@H](O)1))C[C@@H](C(=O)[O-])[NH3+]
+<i>S</i>-carboxymethyl-L-cysteine	C(SCC(=O)[O-])[C@H]([NH3+])C(=O)[O-]
+3-deoxy-D-glycero-&beta;-D-galacto-nonulosonate	C(O)[C@@H](O)[C@H]([C@@H]1(O[C@@](C([O-])=O)(O)C[C@@H]([C@H]1O)O))O
+FMNH<SUB>2</SUB>	CC1(\C(/C)=C/C2(/N(C[C@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-])C3(/NC(=O)NC(=O)C(\NC(/C=1)=2)=3)))
+<i>S</i>-benzyl-L-cysteine	C(C1(\C=C/C=C\C=1))SC[C@@H](C([O-])=O)[NH3+]
+3-deoxy-D-glycero-&alpha;-D-galacto-nonulosonate	C(O)[C@@H](O)[C@H]([C@@H]1(O[C@](C([O-])=O)(O)C[C@@H]([C@H]1O)O))O
+FAD	CC6(\C=C5(C(/N(C[C@@H]([C@H](O)[C@H](O)COP(OP([O-])(OC[C@@H]3([C@@H](O)[C@@H](O)[C@H](N1(\C=N/C2(C(/N)=N\C=N/C1=2)))O3))=O)([O-])=O)O)C4(\C(\C(=O)[N-]C(=O)/N=4)=N/5))=C\C(/C)=6))
+&alpha;,&alpha;-trehalose 6-phosphate	C([C@H]1(O[C@@H]([C@@H]([C@H]([C@@H]1O)O)O)O[C@@H]2([C@@H]([C@H]([C@@H]([C@H](O2)COP([O-])(=O)[O-])O)O)O)))O
+Glc-GalNAc-P-Glc-GalNAc-P-Gro-P-ManNAc-GlcNAc-PP-undecaprenol	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP([O-])(=O)O[C@@H]1([C@@H]([C@H](C([C@H](O1)CO)O[C@@H]6(O[C@H](CO)[C@@H](OP([O-])(=O)OC[C@@H](COP(O[C@H]2([C@@H]([C@H]([C@@H](O)[C@H](O2)CO)O[C@@H]5(O[C@H](COP(O[C@H]3([C@@H]([C@H]([C@@H](O)[C@H](O3)CO)O[C@@H]4(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)4))NC(C)=O))([O-])=O)[C@@H](O)[C@H](O)[C@@H](O)5))NC(C)=O))([O-])=O)O)[C@H](O)[C@H](NC(=O)C)6))O)NC(C)=O)
+3-deoxy-&beta;-D-<i>manno</i>-2-octulosonate	C(O)[C@@H](O)[C@H]1(O[C@](O)(C([O-])=O)C[C@H]([C@H]1O)O)
+dimethyl sulfide	CSC
+3-deoxy-&alpha;-D-<i>manno</i>-2-octulosonate	C(O)[C@@H](O)[C@H]1(O[C@@](O)(C([O-])=O)C[C@H]([C@H]1O)O)
+4-nitrophenol	C1(/C=C(\C=C/C(/[N+](=O)[O-])=1)/[O-])
+ethene	C=C
+salicylate	C(C1(\C(\O)=C/C=C\C=1))([O-])=O
+GlcNAc-1,6-anhMurNAc-L-Ala-&gamma;-D-Glu-DAP-D-Ala	C[C@H](NC([C@H](O[C@@H]2([C@@H](NC(=O)C)C3(OCC([C@@H](O[C@@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](NC(=O)C)1))2)O3)))C)=O)C(N[C@H](CCC(=O)N[C@@H](CCC[C@H](C([O-])=O)[NH3+])C(N[C@H](C)C(=O)[O-])=O)C(=O)[O-])=O
+D-glyceraldehyde 3-phosphate	C(=O)[C@H](O)COP(=O)([O-])[O-]
+nisin	CCC(C)C(C(NC(/C(NC1(C(NC(C(NC(C(NC(CC(C)C)C(NC(CSC1)C(NC7(C(C)SCC(C(NC(C(NC6(C(NCC(NC(C)C(NC(C(NC(CCSC)C(NCC(NC(C(NC(C(NC(C(NC(C(NC5(C(NC(C)C(NC4(C(NC(C(NC(CC2(\N\C=[NH+]/C=2))C(NC(C(NC(CO)C(NC(C(NC(C(NC(C(NC(C(NC(C(=O)[O-])CCCC[NH3+])=O)=C)=O)C(C)C)=O)CC3(\N\C=N/C=3))=O)C(C)CC)=O)=O)CSC(C)4)=O)=O)CSC(C)5)=O))=O)=O))=O)CCCC[NH3+])=O)CCSC)=O)CC(N)=O)=O)CSC(C)6)=O)=O)=O)CC(C)C)=O)=O)=O))=O)CCCC[NH3+])=O)NC(CNC(C8(CCCN(C7=O)8))=O)=O))=O)=O)=O)=C)=O)C(C)CC)=O))=O)=C/C)=O)[NH3+]
+D-gluconate 6-phosphate	C([C@H]([C@H]([C@@H]([C@H](C([O-])=O)O)O)O)O)OP([O-])([O-])=O
+gallidermin	CCC(C)C(C(NC(C(NC7(C(NC(C(NC(C(NC(C(NC(C(NC5(C(=O)N6(C(C(NCC(NC(C(NC(C(NC(C(NC(/C(NCC(NC3(C(NC(C(NC(C(NC2(C(NC(CC1(\C=C/C(/O)=C\C=1))C(NC(C(N/C=C/SC2)=O)CSC3)=O)=O))=O)CC(N)=O)=O)CC4(\C=C/C=C\C=4))=O))=O)=O)=C/C)=O)CCCCN)=O)C)=O)CSC(C)5)=O)=O)CCC6)))=O)CSC7)=O)CC(C)C)=O)CC8(\C=C/C=C\C=8))=O)CCCC[NH3+])=O))=O)C)=O)[NH3+]
+UDP-&alpha;-D-glucose	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@@H](O)[C@H](O1)OP(OP(OC[C@@H]3([C@H]([C@H]([C@H](N2(\C=C/C(=O)NC2=O))O3)O)O))(=O)[O-])(=O)[O-])
+2,5-dioxopentanoate	C(=O)CCC(C([O-])=O)=O
+ATP	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+hydroxyl radical	O
+&alpha;-D-glucosamine 6-phosphate	C(OP([O-])(=O)[O-])[C@H]1(O[C@H](O)[C@H]([NH3+])[C@@H](O)[C@H](O)1)
+3-[(2E,5R)-5-hydroxy-7-oxabicyclo[4.1.0]heptan-2-ylidene]-2-oxopropanoate	C(=O)([O-])C(=O)/C=C2(CC[C@@H](O)[C@@H]1(O[C@@H]12))
+&beta;-D-glucuronate	[C@H]1(O)([C@@H](O)[C@H](O)O[C@H](C(=O)[O-])[C@@H](O)1)
+3-[(4R)-4-hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate	C(=O)([O-])C(=O)CC1(\C=C/[C@H](O)C\C=1)
+&alpha;-D-glucuronate	[C@H]1(O)([C@@H](O)[C@@H](O)O[C@H](C(=O)[O-])[C@@H](O)1)
+2-oxopent-4-enoate	C=CCC(=O)C(=O)[O-]
+&beta;-D-mannuronate	C([O-])(=O)[C@H]1(O[C@@H](O)[C@@H](O)[C@@H](O)[C@H](O)1)
+3-methyl-2-oxobutanoate	CC(C(C([O-])=O)=O)C
+&alpha;-D-glucosamine 1-phosphate	C(O)[C@H]1(O[C@H](OP(=O)([O-])[O-])[C@H]([NH3+])[C@@H](O)[C@H](O)1)
+&beta;-D-fructofuranose 1-phosphate	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@](COP([O-])([O-])=O)(O)O1)
+(4Z)-2-oxohept-4-enedioate	C(C\C=C/CC(C([O-])=O)=O)([O-])=O
+2-dehydro-3-deoxy-D-gluconate	C(=O)([O-])C(=O)C[C@H](O)[C@H](O)CO
+7,8-dihydrofolate monoglutamate	C(NC1(\C=C/C(/C(=O)N[C@H](C(=O)[O-])CCC([O-])=O)=C\C=1))C2(CNC3(/N=C(N)\NC(=O)C(/N=2)=3))
+3-[(2Z,5R)-5-hydroxy-7-oxabicyclo[4.1.0]heptan-2-ylidene]-2-oxopropanoate	C(=O)([O-])C(=O)\C=C2(CC[C@@H](O)[C@@H]1(O[C@@H]12))
+&beta;-D-glucopyranose 1-phosphate	C(O)[C@H]1(O[C@H]([C@@H]([C@H]([C@@H]1O)O)O)OP([O-])([O-])=O)
+&alpha;-D-ribofuranose	C(O)[C@@H]1([C@H]([C@H]([C@@H](O)O1)O)O)
+3-[(1E,4R)-4-hydroxycyclohex-2-en-1-ylidene]-2-oxopropanoate	C(=O)([O-])C(=O)/C=C1(CC[C@@H](O)\C=C/1)
+2-deoxy-&alpha;-D-ribose 1-phosphate	C(O)[C@H]1(O[C@H](OP([O-])(=O)[O-])C[C@H](O)1)
+&beta;-D-ribofuranose	C([C@@H]1([C@@H](O)[C@@H](O)[C@H](O)O1))O
+4-oxalocrotonate	C([O-])(=O)/C=C/CC(=O)C(=O)[O-]
+4-nitrobenzyl alcohol	C(O)C1(\C=C/C(/[N+]([O-])=O)=C\C=1)
+D-erythrose 4-phosphate	C([C@@H]([C@@H](COP([O-])([O-])=O)O)O)=O
+3-(4-hydroxyphenyl)pyruvate	C1(\C(/CC(C([O-])=O)=O)=C/C=C(\C=1)/O)
+2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	C[C@](OP([O-])([O-])=O)(CO)[C@H](O)COP(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O))(=O)[O-])([O-])=O
+<i>p</i>-nitrophenyl-&alpha;-L-arabinofuranoside	C(O)[C@H]1([C@H](O)[C@@H](O)[C@@H](O1)OC2(\C=C/C(/[N+]([O-])=O)=C\C=2))
+6-amino-2-oxohexanoate	C(CC(=O)C(=O)[O-])CC[NH3+]
+5-phospho-&alpha;-D-ribose 1-diphosphate	C(OP(=O)([O-])[O-])[C@@H]1([C@@H](O)[C@@H](O)[C@H](O1)OP(OP([O-])(=O)[O-])([O-])=O)
+1,6-kestotetraose	C(O)[C@H]4(O[C@H](O[C@]3(CO[C@]1(CO)(O[C@H](CO)[C@@H](O)[C@H](O)1))(O[C@H](CO[C@]2(CO)(O[C@H](CO)[C@@H](O)[C@H](O)2))[C@@H](O)[C@H](O)3))[C@H](O)[C@@H](O)[C@H](O)4)
+2-keto-D-gluconate	C(C([C@H]([C@@H]([C@@H](CO)O)O)O)=O)([O-])=O
+1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	C(OP([O-])(=O)[O-])[C@@H](O)[C@@H](O)C(=O)CNC1(/C=C\C=C/C(/C(=O)[O-])=1)
+3-[(2S,5R)-5-hydroxy-7-oxabicyclo[4.1.0]heptan-2-yl]-2-oxopropanoate	C(=O)([O-])C(=O)C[C@H]1([C@H]2(O[C@@H]([C@H](O)CC1)2))
+glycerone phosphate	C(C(=O)CO)OP([O-])([O-])=O
+5-dehydro-2-deoxy-D-gluconate 6-phosphate	C(=O)([O-])C[C@@H](O)[C@H](O)C(=O)COP([O-])(=O)[O-]
+(3E)-2-oxopent-3-enoate	C/C=C/C(=O)C(=O)[O-]
+5-dehydro-2-deoxy-D-gluconate	C(=O)([O-])C[C@@H](O)[C@H](O)C(=O)CO
+3-phenyl-2-oxopropanoate	C([O-])(=O)C(=O)CC1(\C=C/C=C\C=1)
+ADP-D-ribose	C(OP(=O)([O-])OP(OC[C@@H]1([C@@H](O)[C@@H](O)C(O1)O))(=O)[O-])[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4)
+2-oxobutanoate	CCC(=O)C(=O)[O-]
+glyoxylate	C(C(=O)[O-])=O
+2-oxoglutaramate	C(CC(N)=O)C(=O)C(=O)[O-]
+ADP-&alpha;-D-glucose	C([C@@H]1([C@H]([C@@H]([C@H]([C@H](O1)OP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4))(=O)[O-])(=O)[O-])O)O)O))O
+6-kestotriose	C(O)[C@H]3(O[C@H](O[C@]2(CO)(O[C@H](CO[C@]1(CO)(O[C@H](CO)[C@@H](O)[C@H](O)1))[C@@H](O)[C@H](O)2))[C@H](O)[C@@H](O)[C@H](O)3)
+6,6-kestotetraose	C([C@H]4(O[C@H](O[C@@]3(O[C@H](CO[C@@]2(O[C@H](CO[C@@]1(O[C@H](CO)[C@H]([C@H](O)1)O)CO)[C@H]([C@H](O)2)O)CO)[C@H]([C@H](O)3)O)CO)[C@@H]([C@@H](O)[C@@H]4O)O))O
+(2E,4Z)-deca-2,4-dienoyl-CoA	CCCCC\C=C/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+Und-PP-Mur2Ac-L-Ala-&gamma;-D-Glu-DAP-D-Ala-D-Ala	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(OP(O[C@H]1(O[C@H](CO)[C@@H](O)[C@H](O[C@@H](C(=O)N[C@@H](C)C(N[C@H](CCC(=O)N[C@@H](CCC[C@H](C([O-])=O)[NH3+])C(N[C@H](C)C(=O)N[C@H](C)C(=O)[O-])=O)C(=O)[O-])=O)C)[C@@H](NC(=O)C)1))([O-])=O)(=O)[O-]
+&alpha;-D-glucose 1,6-bisphosphate	C([C@@H]1([C@@H](O)[C@H](O)[C@@H](O)[C@@H](OP(=O)([O-])[O-])O1))OP([O-])(=O)[O-]
+<i>aldehydo</i>-D-ribose	C(=O)[C@H](O)[C@H](O)[C@H](O)CO
+Und-PP-Mur2Ac-L-Ala-&gamma;-D-Glu-L-Lys-D-Ala-D-Ala	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(OP(O[C@H]1(O[C@H](CO)[C@@H](O)[C@H](O[C@@H](C(=O)N[C@@H](C)C(N[C@H](CCC(=O)N[C@@H](CCCC[NH3+])C(N[C@H](C)C(=O)N[C@H](C)C(=O)[O-])=O)C(=O)[O-])=O)C)[C@@H](NC(=O)C)1))([O-])=O)(=O)[O-]
+<i>sn</i>-glycerol 3-phosphate	C(OP([O-])(=O)[O-])[C@H](O)CO
+&alpha;-D-ribose-1-phosphate	C(O)[C@H]1(O[C@H](OP([O-])(=O)[O-])[C@H](O)[C@H](O)1)
+1-oleoyl-<i>sn</i>-glycerol 3-phosphate	CCCCCCCC\C=C/CCCCCCCC(=O)OC[C@H](COP([O-])([O-])=O)O
+<i>sn</i>-glycerol 1-phosphate	C(OP([O-])(=O)[O-])[C@@H](O)CO
+x-dara-PEN-1:4	
+b-dara-HEX-2:5|2:keto	
+a-dara-HEX-2:5|2:keto	
+&beta;-D-GlcNAc-(1&rarr;4)-Mur2Ac(oyl-L-Ala-&gamma;-D-Glu-DAP-D-Ala-D-Ala)-PP-Und	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(OP(O[C@H]2(O[C@H](CO)[C@@H](O[C@@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](NC(=O)C)1))[C@H](O[C@@H](C(=O)N[C@@H](C)C(N[C@H](CCC(=O)N[C@@H](CCC[C@H](C(=O)[O-])[NH3+])C(N[C@H](C)C(=O)N[C@H](C)C(=O)[O-])=O)C(=O)[O-])=O)C)[C@@H](NC(=O)C)2))([O-])=O)(=O)[O-]
+x-lara-PEN-1:4	
+{&beta;-D-GlcNAc-(1&rarr;4)-3-<i>O</i>-[L-Ala-&gamma;-D-Glu-DAP-D-Ala-D-Ala]-Mur2Ac}-PP-Dec	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(OP(O[C@H]2(O[C@H](CO)[C@@H](O[C@@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](NC(=O)C)1))[C@H](O[C@@H](C(=O)N[C@@H](C)C(N[C@H](CCC(=O)N[C@@H](CCC[C@H](C([O-])=O)[NH3+])C(N[C@H](C)C(=O)N[C@H](C)C(=O)[O-])=O)C(=O)[O-])=O)C)[C@@H](NC(=O)C)2))([O-])=O)(=O)[O-]
+b-lara-PEN-1:4	
+a-dara-PEN-1:4	
+x-dara-HEX-2:5|2:keto	
+L-ribulose 5-phosphate	C(OP(=O)([O-])[O-])[C@H](O)[C@H](O)C(=O)CO
+a-lara-PEN-1:4	
+D-ribulose 5-phosphate	C([C@H]([C@H](C(CO)=O)O)O)OP([O-])([O-])=O
+hydroquinone	C1(\C(\O)=C/C=C(\C=1)/O)
+a-lgal-HEX-1:5	
+Glc-GalNAc-P-Gro-P-ManNAc-GlcNAc-PP-undecaprenol	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP([O-])(=O)O[C@@H]1([C@@H]([C@H](C([C@H](O1)CO)O[C@@H]4(O[C@H](CO)[C@@H](OP([O-])(=O)OC[C@@H](COP(O[C@H]2([C@@H]([C@H]([C@@H](O)[C@H](O2)CO)O[C@@H]3(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)3))NC(C)=O))([O-])=O)O)[C@H](O)[C@H](NC(=O)C)4))O)NC(C)=O)
+a-dgal-HEX-1:5	
+GalNAc-P-Glc-GalNAc-P-Gro-P-ManNAc-GlcNAc-PP-undecaprenol	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP([O-])(=O)O[C@@H]1([C@@H]([C@H](C([C@H](O1)CO)O[C@@H]5(O[C@H](CO)[C@@H](OP([O-])(=O)OC[C@@H](COP(O[C@H]2([C@@H]([C@H]([C@@H](O)[C@H](O2)CO)O[C@@H]4(O[C@H](COP(O[C@H]3([C@@H]([C@H]([C@@H](O)[C@H](O3)CO)O)NC(C)=O))([O-])=O)[C@@H](O)[C@H](O)[C@@H](O)4))NC(C)=O))([O-])=O)O)[C@H](O)[C@H](NC(=O)C)5))O)NC(C)=O)
+squalene	CC(C)=CCCC(\C)=C/CCC(\C)=C/CC/C=C(C)/CC/C=C(C)/CCC=C(C)C
+x-dgal-HEX-1:5|6:a	
+Gro-P-&beta;-D-ManNAc-(1&rarr;4)-&alpha;-D-GlcNAc-PP-Und	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP([O-])(=O)O[C@@H]1([C@@H]([C@H](C([C@H](O1)CO)O[C@@H]2(O[C@H](CO)[C@@H](OP([O-])(=O)OC[C@@H](CO)O)[C@H](O)[C@H](NC(=O)C)2))O)NC(C)=O)
+b-lgal-HEX-1:5|6:d	
+GalNAc-P-Gro-P-ManNAc-GlcNAc-PP-undecaprenol	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP([O-])(=O)O[C@@H]1([C@@H]([C@H](C([C@H](O1)CO)O[C@@H]3(O[C@H](CO)[C@@H](OP([O-])(=O)OC[C@@H](COP(O[C@H]2([C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)NC(C)=O))([O-])=O)O)[C@H](O)[C@H](NC(=O)C)3))O)NC(C)=O)
+b-dgal-HEX-1:5	
+4-deoxy-L-<i>threo</i>-hex-4-enopyranuronate	C(C1(\OC([C@@H]([C@H](\C=1)O)O)O))([O-])=O
+a-lgal-HEX-1:5|6:d	
+3-deoxy-D-arabino-heptulopyranuronate 7-phosphate	C(OP(=O)([O-])[O-])[C@@H]1([C@@H](O)[C@H](O)C[C@](O)(C(=O)[O-])O1)
+x-lgal-HEX-1:5|6:d	
+O-phospho-L-homoserine	C(OP([O-])(=O)[O-])C[C@H]([NH3+])C([O-])=O
+3-heptaprenyl-<i>sn</i>-glycero-1-phosphate	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/COC[C@H](O)COP(=O)([O-])[O-]
+a-dgal-HEX-1:5|6:a	
+b-dgal-HEX-1:5|6:a	
+L-aspartate 4-semialdehyde	C(=O)C[C@H]([NH3+])C(=O)[O-]
+x-lgal-HEX-1:5	
+15-methylhexadecanoate	CC(C)CCCCCCCCCCCCCC([O-])=O
+o-dgal-HEX-0:0|1:aldi	
+3-sulfino-L-alanine	C([C@H]([NH3+])C(=O)[O-])S([O-])=O
+L-alanyl-L-glutamate	C[C@H]([NH3+])C(=O)N[C@H](C([O-])=O)CCC(=O)[O-]
+stearate	CCCCCCCCCCCCCCCCCC(=O)[O-]
+L-alanyl-D-glutamate	C[C@H]([NH3+])C(=O)N[C@H](CCC(=O)[O-])C(=O)[O-]
+O-succinyl-L-homoserine	C(CC(=O)OCC[C@@H](C([O-])=O)[NH3+])C([O-])=O
+bacilysin	C[C@@H](C(N[C@@H](C[C@@H]2(CCC(=O)[C@@H]1(O[C@@H]12)))C([O-])=O)=O)[NH3+]
+pentadecanoate	CCCCCCCCCCCCCCC([O-])=O
+2-(methylsulfanyl)-<i>N</i><sup>6</sup>-prenyladenosine<sup>37</sup> in tRNA	CC(C)=CCNC1(\C2(\N=C/N(C(/N=C(/N=1)/SC)=2)[C@@H]3(O[C@H](COP(=O)([O-])O[a tRNA])[C@@H](OP(=O)(O[a tRNA])[O-])[C@@H](O)3)))
+L-glutamate-5-semialdehyde	C(C[C@H]([NH3+])C([O-])=O)C=O
+a-xgal-HEX-1:5|6:a	
+octanoate	CCCCCCCC(=O)[O-]
+<i>N</i><sup>6</sup>-(3-methylbut-2-en-1-yl)-2-thioadenosine<sup>37</sup> in tRNA	CC(C)=CCNC1(\C2(\N=C/N(C(/N=C(/N=1)/S)=2)[C@@H]3(O[C@H](COP(=O)([O-])O[a tRNA])[C@@H](OP(=O)(O[a tRNA])[O-])[C@@H](O)3)))
+L-cystine	C([C@@H](C(=O)[O-])[NH3+])SSC[C@@H](C([O-])=O)[NH3+]
+a-dgal-HEX-1:5|6:d	
+laurate	CCCCCCCCCCCC([O-])=O
+ethyl-acetoacetate	CCOC(=O)CC(C)=O
+L-ornithine	C(=O)([O-])[C@@H]([NH3+])CCC[NH3+]
+12-methyltridecanoate	CC(C)CCCCCCCCCCC([O-])=O
+D-altronate	C(O)[C@@H](O)[C@@H](O)[C@@H](O)[C@H](O)C(=O)[O-]
+(<i>S</i>)-2-acetolactate	CC(=O)[C@](C)(O)C(=O)[O-]
+L-homoserine	C(O)C[C@H]([NH3+])C([O-])=O
+a-dgal-HEX-1:4	
+butanoate	CCCC(=O)[O-]
+3-oxopropanoate	C(=O)CC([O-])=O
+x-dgal-HEX-1:5	
+palmitate	CCCCCCCCCCCCCCCC([O-])=O
+acetoacetate	CC(=O)CC([O-])=O
+b-lgal-HEX-1:5	
+decanoate	CCCCCCCCCC(=O)[O-]
+L-2-amino-3-oxobutanoate	CC(=O)[C@H]([NH3+])C([O-])=O
+b-dgal-HEX-1:4	
+<i>aldehydo</i>-D-ribose 5-phosphate	C(=O)[C@H](O)[C@H](O)[C@@H](COP([O-])([O-])=O)O
+(<i>S</i>)-2-aceto-2-hydroxybutanoate	CC[C@@](O)(C(=O)[O-])C(C)=O
+a-lman-HEX-1:5|6:d	
+a-dman-HEX-1:5	
+x-dman-HEX-1:5|6:a	
+a peptidoglycan dimer (<I>meso</I>-diaminopimelate containing)	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(OP([O-])(=O)O[C@@H]4([C@H](NC(=O)C)[C@@H](O[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](C(=O)[O-])CCC(=O)N[C@@H](CCC[C@@H]([NH3+])C(=O)[O-])C(N[C@H](C)C(=O)N[C@H](C)C([O-])=O)=O)[C@H](O[C@@H]3(O[C@H](CO)[C@@H](O[C@@H]2([C@H](NC(=O)C)[C@@H](O[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@@H](C(=O)[O-])CCC(=O)N[C@@H](CCC[C@@H]([NH3+])C(=O)[O-])C(N[C@H](C)C(=O)N[C@H](C)C([O-])=O)=O)[C@H](O[C@@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](NC(=O)C)1))[C@@H](CO)O2))[C@H](O)[C@@H](NC(=O)C)3))[C@@H](CO)O4))([O-])=O
+b-lman-HEX-1:5|6:d	
+&beta;-D-GlcNAc-(1&rarr;4)-Mur2Ac-oyl-L-Ala-&gamma;-D-Glu-L-Lys-D-Ala-D-Ala	C[C@H](C(=O)N[C@H](C)C(=O)[O-])NC(=O)[C@H](CCCC[NH3+])NC(=O)CC[C@@H](NC(=O)[C@@H](NC([C@H](O[C@@H]2([C@@H](NC(=O)C)[C@@H](OP([O-])([O-])=O)O[C@H](CO)[C@@H](O[C@@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](NC(=O)C)1))2))C)=O)C)C(=O)[O-]
+D-glucono-1,5-lactone	C([C@H]1(OC([C@@H]([C@H]([C@@H]1O)O)O)=O))O
+b-dman-HEX-1:5	
+a-dman-HEX-1:5|6:a	
+L-citrulline	C(NC(N)=O)CC[C@H]([NH3+])C(=O)[O-]
+6-<i>O</i>-acetyl-&alpha;-D-glucopyranosyl-(1&rarr;4)-D-glucose	CC(=O)OC[C@H]1(O[C@@H]([C@@H]([C@H]([C@@H]1O)O)O)O[C@H]2([C@@H]([C@H](C(O[C@@H]2CO)O)O)O))
+x-dman-HEX-x:x	
+pimelate	C([O-])(=O)CCCCCC([O-])=O
+&beta;-D-glucuronosyl-(1&rarr;3)-<i>N</i>-acetyl-&alpha;-D-galactosaminyl-diphospho-<i>ditrans,octacis</i>-undecaprenol	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP([O-])(=O)O[C@@H]1([C@@H]([C@H]([C@H]([C@H](O1)CO)O)O[C@@H]2(O[C@H](C(=O)[O-])[C@H](O)[C@H](O)[C@@H](O)2))NC(C)=O)
+x-dman-HEX-1:4	
+galactarate	C(=O)([O-])[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)C(=O)[O-]
+b-dman-HEX-1:5|6:a	
+hemin	C=CC1(\C4(\N2([Fe+3](Cl)N6(C(/C=C3(C(/CCC(=O)[O-])=C(C)/C(\C=C(C(/C)=1)/2)=N3))=C(CCC(=O)[O-])/C(\C)=C(\C=C5(C(/C=C)=C(C)/C(\C=4)=N5))\6))))
+D-glucarate	C(=O)([C@H](O)[C@@H](O)[C@H](O)[C@H](O)C(=O)[O-])[O-]
+siroheme	C[C@]3(CC(=O)[O-])([C@H](CCC(=O)[O-])C7(\[N+]4(\[Fe-2]16([N+]5(\C(/C(\CCC([O-])=O)=C(CC(=O)[O-])\C(/C=C2([C@@](C)(CC(=O)[O-])[C@H](CCC(=O)[O-])C(\N12)=C\C/3=4))=5)=C/C8(/N6C(/C=7)=C(CC([O-])=O)/C(\CCC(=O)[O-])=8))))))
+a-dman-HEX-1:5|6:d	
+succinate	C(C([O-])=O)CC([O-])=O
+L-&alpha;-amino-&epsilon;-keto-pimelate	C([O-])(=O)[C@H](CCCC(C([O-])=O)=O)[NH3+]
+ppGpp	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(\C=N/C2(C(=O)NC(/N)=N/C1=2)))[C@H](O)[C@H](OP([O-])(OP([O-])([O-])=O)=O)3)
+x-lman-HEX-1:5|6:d	
+b-dman-HEX-1:5|6:d	
+5-hydroxy-CMP	C(OP(=O)([O-])[O-])[C@@H]2([C@H]([C@H]([C@H](N1(/C=C(C(/N)=N\C1=O)/O))O2)O)O)
+x-dman-HEX-1:5	
+x-dxyl-PEN-1:5	
+a-dxyl-PEN-1:5	
+8-oxo-dGTP	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(NC(=O)1)=2)))C[C@H](O)3)
+b-xxyl-PEN-1:5	
+chorismate	C=C(C(=O)[O-])O[C@H]1([C@H](O)\C=C/C(/C([O-])=O)=C\1)
+protoporphyrinogen IX	C=CC2(\C(/C)=C1(CC5(\NC(/CC4(\NC(/CC3(\NC(/CC(\N1)=2)=C(C)/C(\C=C)=3))=C(C)/C(\CCC([O-])=O)=4))=C(CCC(=O)[O-])/C(\C)=5)))
+5-amino-6-(5-phospho-D-ribosylamino)uracil	C(OP(=O)([O-])[O-])[C@H]1(O[C@H]([C@H](O)[C@H](O)1)NC2(NC(=O)NC(=O)C(N)=2))
+uroporphyrinogen-I	C(=O)([O-])CCC2(\C(/CC(=O)[O-])=C1(CC5(\NC(/CC4(\NC(/CC3(\NC(/CC(\N1)=2)=C(CC(=O)[O-])/C(\CCC([O-])=O)=3))=C(CC(=O)[O-])/C(\CCC(=O)[O-])=4))=C(CC([O-])=O)/C(\CCC(=O)[O-])=5)))
+(3<i>E</i>)-2-oxohex-3-enedioate	C([O-])(=O)C/C=C/C(=O)C(=O)[O-]
+protoporphyrin IX	C=CC4(\C(/C)=C3(\C=C5(C(/C)=C(CCC([O-])=O)/C(\C=C1(C(/CCC([O-])=O)=C(C)/C(/N1)=C/C2(/C(\C=C)=C(C)\C(\N=2)=C\C(\N3)=4)))=N\5)))
+<i>N<sup>6</sup></i>-(1,2-dicarboxyethyl)AMP	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N[C@@H](CC(=O)[O-])C([O-])=O)/N=C\N=2)))[C@H](O)[C@H](O)3)
+Fe-coproporphyrin III	CC4(\C(/CCC([O-])=O)=C5(\C=C6(C(/C)=C(CCC(=O)[O-])/C7(\C=C8(C(/C)=C(CCC([O-])=O)/C1(/N([Fe-2]3(N(C(/C=C2(C(/C)=C(CCC([O-])=O)/C(\C=1)=[N+]2/3))=4)5)[N+]/6=7)8))))))
+oxalate	C([O-])(C(=O)[O-])=O
+uroporphyrinogen-III	C(=O)([O-])CCC2(\C(/CC(=O)[O-])=C1(CC5(\NC(/CC4(\NC(/CC3(\NC(/CC(\N1)=2)=C(CCC(=O)[O-])/C(\CC(=O)[O-])=3))=C(CC(=O)[O-])/C(\CCC(=O)[O-])=4))=C(CC([O-])=O)/C(\CCC(=O)[O-])=5)))
+pppGpp	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(\C=N/C2(C(=O)NC(/N)=N/C1=2)))[C@H](O)[C@H](OP([O-])(OP([O-])([O-])=O)=O)3)
+harderoheme III	C=CC5(\C(/C)=C1(\C=C6(C(/C)=C(CCC([O-])=O)/C7(\C=C8(C(/CCC([O-])=O)=C(C)/C2(/N([Fe-2]4(N1C(/C=C3(C(/C)=C(CCC(=O)[O-])/C(\C=2)=[N+]3/4))=5)([N+]/6=7))8))))))
+2-oxoglutarate	C(CC([O-])=O)C(=O)C([O-])=O
+coproporphyrin III	CC4(\C(/CCC([O-])=O)=C3(\C=C5(C(/C)=C(CCC(=O)[O-])/C(\C=C1(C(/C)=C(CCC([O-])=O)/C(/N1)=C/C2(/C(\CCC([O-])=O)=C(C)\C(\N=2)=C\C(\N3)=4)))=N\5)))
+2-hydroxy-dATP	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(/N=C(/N=C(C(\N=C/1)=2)/N)/O)))C[C@H](O)3)
+a-lxyl-PEN-1:5	
+5-hydroxy-CTP	C(OP(OP(=O)([O-])OP(=O)([O-])[O-])(=O)[O-])[C@@H]2([C@H]([C@@H](O)[C@H](N1(/C=C(C(/N)=N\C1=O)/O))O2)O)
+b-dxyl-PEN-1:5	
