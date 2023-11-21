@@ -88,10 +88,7 @@ def make_coOccurence_tab (rxn_str_list, f_or_r):
             raise
         for reactant in reactants:
             r = simp.sub("", reactant) #remove articles/ stoichiometric coefficients
-            try:
-                r_ind = reactant_to_ind[r]
-            except:
-                pdb.set_trace()
+            r_ind = reactant_to_ind[r]
             tot_occurences[r_ind] += 1
             for prod in products:
                 p = simp.sub("", prod) #remove articles/ stoichiometric coefficients
@@ -99,35 +96,36 @@ def make_coOccurence_tab (rxn_str_list, f_or_r):
                     p_ind = product_to_ind[p]
                 except Exception as e:
                     print (e)
-                    pdb.set_trace()
-
                 tab[r_ind, p_ind] += 1
 
 
     return tab, tot_occurences, all_reactants, all_products, reactant_to_ind, product_to_ind
 
-
-def make_cofactor_dict(rxn_str_list, occ_cutoff, frac_cutoff, f_or_r):
+def make_cofactor_dict(rxn_str_list, occ_cutoff, frac_cutoff, f_or_r, ignore=[]):
     """
     Returns a dictionary of 'cofactors,' defined by their appearance in over [occ_cutoff]
     reactions and coappearance with another molecule over [frac_cutoff] of the time
-
+    
     Parameters:
         rxn_str_list (list[string]): reactions represented with common chemical names
         occ_cutoff (int): minimum number of appearances
         frac_cutoff (float): minimum fraction of coappearances
         f_or_r (string): 'f' or 'r' whether to look at rxns in the fwd or reverse direction
-
-    output:
+    
+    output: 
         dict of form :{chemical name: coappearing chemical name}
     """
-
+    
     tab, tot_occurences, reactants, products, r_dic, p_dic = make_coOccurence_tab (rxn_str_list, f_or_r)
+    for m in ignore:
+        tab[r_dic[m], :] = 0
+        tab[:, p_dic[m]] = 0
     r = set()
     p = {}
     rel_tab = tab/tot_occurences[:,None]
+    
     #indices for reactants that appear more than 30 times
-    for i in np.arange(len(tot_occurences))[tot_occurences > occ_cutoff]:
+    for i in np.arange(len(tot_occurences))[tot_occurences > occ_cutoff]: 
         chem = reactants[i]
         if np.max(rel_tab [r_dic[chem],:]) > frac_cutoff:
             r.add(reactants[i])
@@ -136,6 +134,8 @@ def make_cofactor_dict(rxn_str_list, occ_cutoff, frac_cutoff, f_or_r):
                 l.append(products[j])
             p[reactants[i]] = l
     return p
+                   
+
 
 
 # functions used to process mapped SMILES
@@ -250,3 +250,58 @@ def mergeDict(dic1, dic2):
     dic.update(dic3)
     return dic
 
+def flip_reaction (reaction_smiles):
+    reactants, products = reaction_smiles.split('>>')
+    return '>>'.join([products, reactants])
+
+def neutralize_atoms(smiles):
+    #pulled from http://www.rdkit.org/docs/Cookbook.html#neutralizing-charged-molecules
+    mol = Chem.MolFromSmiles(smiles)
+    pattern = Chem.MolFromSmarts("[+1!h0!$([*]~[-1,-2,-3,-4]),-1!$([*]~[+1,+2,+3,+4])]")
+    at_matches = mol.GetSubstructMatches(pattern)
+    at_matches_list = [y[0] for y in at_matches]
+    if len(at_matches_list) > 0:
+        for at_idx in at_matches_list:
+            atom = mol.GetAtomWithIdx(at_idx)
+            chg = atom.GetFormalCharge()
+            hcount = atom.GetTotalNumHs()
+            atom.SetFormalCharge(0)
+            atom.SetNumExplicitHs(hcount - chg)
+            atom.UpdatePropertyCache()
+    return Chem.MolToSmiles(mol)
+
+def standardize_smiles(smiles):
+    if ' ' in smiles or 'R' in smiles:
+        return smiles
+    try:
+        smiles = neutralize_atoms(Chem.MolToSmiles(Chem.MolFromSmiles(smiles)))
+        return smiles
+    except:
+        if Chem.MolFromSmiles(smiles)==None:
+            m = Chem.MolFromSmiles(smiles, sanitize=False)
+            fix_c = AllChem.ReactionFromSmarts('[#6-:1]>>[C;+0:1]')
+            if m:
+                f = fix_c.RunReactants([m])
+                if len (f)>0:
+                    f = f[0][0]
+                    print ('fixed smiles :', smiles,Chem.MolToSmiles(f))
+                    try:
+                        return neutralize_atoms(Chem.MolToSmiles(f))
+                    except:
+                        return Chem.MolToSmiles(f)
+                else:
+                    return smiles
+            else:
+                return smiles
+        else:
+            return smiles
+
+def clean_name(string: str) -> str:
+    new = re.sub("[\s\.,]", "_", string)
+    new = re.sub("[\[\]\(\)']", "", new)
+    new = re.sub('&rarr;', '->', new)
+    new = re.sub('<[a-zA-z]*>|<\/[a-zA-z]*>|;|&|^[Aa]n |^[0-9]* ','', new)
+    new = re.sub('\+', 'plus', new)
+    new = re.sub('^-', 'minus', new)
+    new = re.sub(',', '-', new)
+    return new

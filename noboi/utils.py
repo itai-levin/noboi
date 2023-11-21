@@ -1,10 +1,7 @@
 from rdkit import Chem
 from rdkit.Chem import AllChem
-import pandas as pd
 import networkx as nx
 import re
-import numpy as np
-import pdb
 
 def neutralize_atoms(smiles):
     #pulled from http://www.rdkit.org/docs/Cookbook.html#neutralizing-charged-molecules
@@ -68,3 +65,47 @@ def show_rxn_list (list_of_reaction_smiles):
         print(string)
         plt.imshow(Chem.Draw.ReactionToImage(obj))
         plt.show()
+        
+def standardize_reaction_smiles(reaction_smiles):
+    try:
+        reactants, products = [standardize_smiles(s) for s in reaction_smiles.split('>>')]
+        return '>>'.join([reactants, products])
+    except:
+        return reaction_smiles
+
+def construct_pathway_from_list (list_of_reactions, metadata = None):
+    """
+    Inputs:
+        list_of_reactions (list of string): list of reaction SMILES
+        metadata (list of dict): list of metadata for each reaction. The keys in 
+            each dictionary will be used to define the fields of the reaction
+            nodes to populate.
+    
+    Returns:
+       pathway tree nested dictionary 
+    """
+    g = nx.DiGraph()
+    
+    for i, reaction in enumerate(list_of_reactions):
+        reaction = reaction.replace('R','*')
+        reactants, intermediate, products = reaction.split('>')
+        reactants = [standardize_smiles(s) for s in reactants.split('.')]
+        products = [standardize_smiles(s) for s in products.split('.')]
+        
+        reaction = '>'.join(['.'.join(reactants), intermediate, '.'.join(products)])
+        #add reaction nodes
+        g.add_node(reaction, color='black', rxn=True, chem=False)
+        
+        for k in metadata[i].keys():
+            g.nodes[reaction][k] = metadata[i][k]
+
+        #connect reactant and product nodes to reaction node
+        for reactant in reactants:
+            if reactant not in g.nodes:
+                g.add_node(reactant, color='red', rxn=False, chem=True, smarts = '')
+            g.add_edge(reactant, reaction)      
+        for product in products:
+            if product not in g.nodes:
+                g.add_node(product, color='red', rxn=False, chem=True, smarts = '')
+            g.add_edge(reaction, product)
+    return g
